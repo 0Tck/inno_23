@@ -14,13 +14,13 @@
   
   <body>
     <!---Navbar-->  
-    <nav class="navbar navbar-expand-lg navbar-light main-navbar
-      bg m-navbar-light" id="main-navbar">
+    <nav class="navbar navbar-expand-lg navbar-light main-navbar bg m-navbar-light" id="main-navbar">
       <div class="container">
             <a class="navbar-brand"href="#">Tourismo</a>
             <form class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            <button class="btn btn-outline-dark my-2 my-sm-0" type="submit">Search</button>
+            <a href="#predict_nav"><button class="btn btn-outline-dark my-2 my-sm-0 ml-2" type="button">Predict</button></a>
             </form>
         <button class="navbar-toggler"type="button"data-toggle="collapse"
           data-target="#my-nav" aria-controls="p-nav"aria-expanded="false"
@@ -79,122 +79,125 @@
 </section>
     <!---End of Hero-Image-->
 <!---Search section-->
-<section>
+<section id="predict_nav">
     <div class="section-search">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 tab-search">
-            <div class="nav nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-              <a class="nav-link p-3 active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Travel</a>
-              <a class="nav-link p-3" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false"> Hotels</a>
-              <a class="nav-link p-3" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Car Rents</a>
-              <a class="nav-link p-3" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false"> Cruises</a>
-              <a class="nav-link p-3" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false"> Destination</a>
-            </div>
-          </div>
-
-          <div class="tab-content py-5" id="v-pills-tabContent">
-            <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-              <div class="block-17">
-                <form class="d-block d-lg-flex">
-                  <div class="fields d-block d-lg-flex">
-
-                    <div class="textfield-search one-third"><input type="text" class="form-control" placeholder="Search Location"></div>
-
-                    <div class="check-in one-third"><input type="text" id="checkin_date" class="form-control" placeholder="Check-in date"></div>
-
-                    <div class="check-out one-third"><input type="text" id="checkout_date" class="form-control" placeholder="Check-out date"></div>
-                    <div class="select-wrap one-third">
-                   <select name="" id="" class="form-control">
-                        <option value="">Guest</option>
-                        <option value="">1</option>
-                        <option value="">2</option>
-                        <option value="">3+</option>
-                        
-                      </select>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 tab-search">
+                    <div class="tab-content py-5" id="v-pills-tabContent">
+                        <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                            <div class="block-17">
+                                <section>
+    <div class="section-search">
+        <center>
+            <h1>Don't know to where to go?</h1>
+            <h2>Let us help</h2>
+        </center>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 tab-search">
+                    <div class="tab-content py-3" id="v-pills-tabContent">
+                        <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                            <div class="block-17">
+                                <form class="d-block d-lg-flex">
+                                    <div class="fields d-block d-lg-flex">
+                                        <div class="textfield-search one-third mr-3"><input type="text" class="form-control" placeholder="Budget"></div>
+                                        <div class="check-in one-third mr-3"><input type="text" id="checkin_date" class="form-control" placeholder="Company"></div>
+                                        <div class="check-out one-third mr-3"><input type="text" id="checkout_date" class="form-control" placeholder="Days"></div>
+                                        <div class="check-out one-third mr-3"><input type="text" id="checkout_date" class="form-control" placeholder="Range"></div>
+                                        <div class="check-out one-third mr-3"><input type="text" id="checkout_date" class="form-control" placeholder="Season"></div>
+                                        <div class="check-out one-third mr-3"><input type="text" id="checkout_date" class="form-control" placeholder="Transport"></div>
+                                        <div class="check-out one-third mr-3"><input type="text" id="checkout_date" class="form-control" placeholder="Vacation-type"></div>
+                                        <div class="check-out one-third mr-3"><input type="text" id="checkout_date" class="form-control" placeholder="Member-count"></div>
+                                    </div>
+                                </form>
+                                <center><input type="submit" class="search-submit btn btn-primary mt-3 mb-0" value="Suggest"></center>
+                            </div>
+                        </div>
                     </div>
-                  </div>
-                  <input type="submit" class="search-submit btn btn-primary" value="Find Flights">
-                </form>
-              </div>
+                </div>
             </div>
-            <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-              <div class="block-17">
-                <form action="" method="post" class="d-block d-lg-flex">
-                  <div class="fields d-block d-lg-flex">
-                    <div class="textfield-search one-third"><input type="text" class="form-control" placeholder="Search Hotel"></div>
-
-                    <div class="check-in one-third"><input type="text" id="checkin_date" class="form-control" placeholder="Check-in date"></div>
-
-                    <div class="check-out one-third"><input type="text" id="checkout_date" class="form-control" placeholder="Check-out date"></div>
-                    <div class="select-wrap one-third">
-                      <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-                      <select name="" id="" class="form-control">
-                        <option value="">Guest</option>
-                        <option value="">1</option>
-                        <option value="">2</option>
-                        <option value="">3+</option>
-                      </select>
-                    </div>
-                  </div>
-                  <input type="submit" class="search-submit btn btn-primary" value="Find Hotels">
-                </form>
-              </div>
-            </div>
-            <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
-              <div class="block-17">
-                <form action="" method="post" class="d-block d-lg-flex">
-                  <div class="fields d-block d-lg-flex">
-                    <div class="textfield-search one-third"><input type="text" class="form-control" placeholder="Search Location"></div>
-
-                    <div class="check-in one-third"><input type="text" id="start_date" class="form-control" placeholder="Start date"></div>
-
-                    <div class="check-out one-third"><input type="text" id="return_date" class="form-control" placeholder="Return date"></div>
-                    <div class="select-wrap one-third">
-                      <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-                      <select name="" id="" class="form-control">
-                        <option value="">Guest</option>
-                        <option value="">1</option>
-                        <option value="">2</option>
-                        <option value="">3+</option>
-                        
-                      </select>
-                    </div>
-                  </div>
-                  <input type="submit" class="search-submit btn btn-primary" value="Find Car">
-                </form>
-              </div>
-            </div>
-            <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
-              <div class="block-17">
-                <form action="" method="post" class="d-block d-lg-flex">
-                  <div class="fields d-block d-lg-flex">
-                    <div class="textfield-search one-third one-third-1"><input type="text" class="form-control" placeholder="Search Location"></div>
-
-
-                    <div class="check-out one-third one-third-1"><input type="text" id="start_date" class="form-control" placeholder="Check-out date"></div>
-
-                    <div class="select-wrap one-third one-third-1">
-                      <div class="icon"></div>
-                      <select name="" id="" class="form-control">
-                        <option value="">Categories</option>
-                        <option value="">Suite</option>
-                        <option value="">Super Deluxe</option>
-                        <option value="">Economy</option>
-                        
-                      </select>
-                    </div>
-                  </div>
-                  <input type="submit" class="search-submit btn btn-primary" value="Find Cruise">
-                </form>
-              </div>
-            </div>
-          </div>
         </div>
-      </div>
     </div>
-  </div>
 </section>
+
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                            <div class="block-17">
+                                <form action="" method="post" class="d-block d-lg-flex">
+                                    <div class="fields d-block d-lg-flex">
+                                        <div class="textfield-search one-third"><input type="text" class="form-control" placeholder="Search Hotel"></div>
+                                        <div class="check-in one-third"><input type="text" id="checkin_date" class="form-control" placeholder="Check-in date"></div>
+                                        <div class="check-out one-third"><input type="text" id="checkout_date" class="form-control" placeholder="Check-out date"></div>
+                                        <div class="select-wrap one-third">
+                                            <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+                                            <select name="" id="" class="form-control">
+                                                <option value="">Guest</option>
+                                                <option value="">1</option>
+                                                <option value="">2</option>
+                                                <option value="">3+</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <input type="submit" class="search-submit btn btn-primary" value="Find Hotels">
+                                </form>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+                            <div class="block-17">
+                                <form action="" method="post" class="d-block d-lg-flex">
+                                    <div class="fields d-block d-lg-flex">
+                                        <div class="textfield-search one-third"><input type="text" class="form-control" placeholder="Search Location"></div>
+                                        <div class="check-in one-third"><input type="text" id="start_date" class="form-control" placeholder="Start date"></div>
+                                        <div class="check-out one-third"><input type="text" id="return_date" class="form-control" placeholder="Return date"></div>
+                                        <div class="select-wrap one-third">
+                                            <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+                                            <select name="" id="" class="form-control">
+                                                <option value="">Guest</option>
+                                                <option value="">1</option>
+                                                <option value="">2</option>
+                                                <option value="">3+</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <input type="submit" class="search-submit btn btn-primary" value="Find Car">
+                                </form>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+                            <div class="block-17">
+                                <form action="" method="post" class="d-block d-lg-flex">
+                                    <div class="fields d-block d-lg-flex">
+                                        <div class="textfield-search one-third one-third-1"><input type="text" class="form-control" placeholder="Search Location"></div>
+                                        <div class="check-out one-third one-third-1"><input type="text" id="start_date" class="form-control" placeholder="Check-out date"></div>
+                                        <div class="select-wrap one-third one-third-1">
+                                            <div class="icon"></div>
+                                            <select name="" id="" class="form-control">
+                                                <option value="">Categories</option>
+                                                <option value="">Suite</option>
+                                                <option value="">Super Deluxe</option>
+                                                <option value="">Economy</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <input type="submit" class="search-submit btn btn-primary" value="Find Cruise">
+                                </form>
+                            </div>
+                        </div>
+                        <!-- Add a new destination tab-pane -->
+                        <div class="tab-pane fade" id="v-pills-destination" role="tabpanel" aria-labelledby="v-pills-destination-tab">
+                            <div class="block-17">
+                                <!-- Form for searching destinations can be added here if needed -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 <!---End of Search section-->
 <!---Welcome/about section-->
