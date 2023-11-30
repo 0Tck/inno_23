@@ -1,0 +1,1001 @@
+Destination,Budget,Company,No. of Days,Range,Season,Mode of Transport,Type of Vacation,No. of Members
+Hampi           ,35000, Family           ,4, State , Winter , Air               , Enjoy            ,2
+Kanyakumari         ,45000, Family        ,4, State   ,Monsoon, Train          , Relaxation      ,2
+Thanjavur           ,40000,  Friends        ,5, State , Any   ,Road              , Cultural        ,3
+Rameshwaram         ,40000,Family       ,4, State           ,Any         ,Train,Religious         ,5
+Alleppey        ,60000, Family           ,4, State , Winter , Air                , Relaxation       ,5
+Rameshwaram         ,70000,Family       ,4, State           ,Any         ,Train    , Adventure      ,2
+Mount Abu       ,40000, Family           ,4, State , Winter , Train              , Cultural         ,3
+Dwarka           ,40000, Family           ,4, City  , Winter , Air                , Cultural         ,2
+Dalhousie        ,45000, Friends       ,5, State , Any   , Road                , Cultural        ,3
+Pushkar          ,40000,Family       ,3, State            ,Any        ,Road             ,Relaxation             ,4
+Ooty               ,50000,Family       ,5, State     ,Any       ,Train  ,Relaxation             ,4
+Haridwar        ,30000, Family           ,3, City  , Any    , Road              , Informational    ,2
+Cherrapunjee   ,70000,  Family          ,6, State , Summer , Road              , Adventure        ,4
+Khajjiar         ,40000, Family          ,4,State   ,Any      , Road              , Enjoy            ,3
+Rajasthan       ,35000, Family           ,4, State , Winter , Road              , Cultural         ,2
+Kanyakumari     ,45000, Friends          ,4, State , Winter , Air                , Relaxation       ,4
+Agra            ,25000, Friends     ,3, State  , Any    ,Road              ,Cultural         ,2
+Jaisalmer       ,50000, Friends          ,5, State , Winter , Road               , Adventure        ,4
+Gokarna         ,40000, Friends          ,4, State , Any    , Road               , Relaxation       ,3
+Mumbai          ,35000, Family           ,4, City  , Any    , Train             , Enjoy            ,4
+Nainital        ,35000, Family           ,5, State , Summer , Train             , Adventure        ,4
+Shimla          ,50000, Family           ,7, State , Winter , Air                , Adventure        ,3
+Kanha NP         ,50000,Friends      ,5, State       ,Winter   ,Train  ,Cultural          ,3
+Mahabalipuram      ,35000, Family          ,3, State , Summer , Train              , Cultural         ,4
+Andaman         ,35000, Family           ,7, State , Any    , Road              , Adventure        ,3
+Bikaner         ,50000, Friends          ,5, State , Winter , Road              , Adventure        ,4
+Puri             ,35000,  Friends        ,3, State , Winter, Road              , Adventure       ,4
+Rann of Kutch   ,30000, Friends          ,4, State , Summer , Train             , Adventure        ,4
+Rameshwaram      ,40000, Family          ,4, State , Any   ,Road         , Religious        ,3
+Bhimbetka        ,40000,Family       ,3, State    ,Any     , Road        ,Cultural             ,3
+Mandu            ,35000, Friends          ,5, State , Summer , Road              , Adventure        ,3
+Alleppey        ,40000, Friends          ,4, State , Winter , Road               , Relaxation       ,3
+Haridwar        ,30000, Friends          ,3, State , Any    , Road              , Devotional       ,5
+Jaisalmer       ,45000, Friends          ,5, State , Winter , Road              , Adventure        ,4
+Lonavala         ,55000,Friends      ,3, State   ,Any        ,Road       ,Cultural               ,4
+Rameshwaram      ,40000,Family       ,4, State    ,Any      , Road              ,Religious            ,5
+Vrindavan        ,35000, Family          ,3, State , Any    , Train             , Informational    ,3
+Jaisalmer       ,55000, Family           ,6, State , Winter , Road               , Adventure        ,4
+Mahabalipuram       ,35000, Family           ,4, State , Any    , Road              , Relaxation       ,2
+Yercaud          ,45000, Friends        ,4, State   ,Winter   , Road              , Adventure       ,3
+Kanyakumari         ,50000, Family          ,4,  State, Winter , Road              , Adventure       ,2
+Coonoor           ,35000, Family          ,3, State , Any , Road             , Adventure       ,2
+Puri            ,40000, Family           ,4, State , Any    , Road               , Enjoy            ,3
+Ziro Valley      ,70000, Friends           ,5, State , Any   , Road               , Adventure        ,4
+Kanyakumari     ,40000, Friends          ,4, State , Winter , Air               , Relaxation       ,4
+Coonoor          ,35000, Family           ,3, State , Any    , Road              , Cultural         ,2
+Kanyakumari     ,45000, Family           ,4, State , Winter , Train             , Relaxation       ,4
+Yercaud          ,35000, Friends         ,4, State   , Any , Road             , Cultural         ,3
+Ajanta Ellora    ,45000, Family           ,4,  State, Any    , Road              ,Relaxation              ,3
+Tiruchirapalli      ,30000, Family          ,3, State , Any   , Air               , Informational    ,3
+Pondicherry     ,40000, Family           ,3, State , Any    , Road               , Relaxation       ,4
+Haridwar        ,40000, Family           ,3, State , Any    , Road              , Relaxation       ,2
+Satpura NP       ,40000, Family          ,3, State , Summer , Road              , Adventure       ,4
+Panhala          ,35000, Family        ,4, State , Any    , Road              , Adventure       ,2
+Rameshwaram     ,40000,Family       ,4, State        ,Any      , Road        , Relaxation      ,2
+Shirdi          ,30000, Friends          ,3, City  , Any    , Air                , Informational    ,5
+Matheran         ,55000, Family           ,4, State , Monsoon, Helicopter        , Cultural         ,2
+Bikaner         ,50000, Family           ,5, State , Summer , Road              , Adventure        ,4
+Kodaikanal       ,40000, Friends         ,4, State   ,Monsoon  , Road              , Relaxation      ,2
+Khajjiar         ,40000, Friends        ,3,State , Any  , Road             , Adventure       ,4
+Kanha NP         ,50000,Friends      ,5, State   ,Winter     , Road              ,Cultural               ,2
+Leh             ,70000, Friends          ,6, State , Summer , Road              , Adventure        ,4
+Kanyakumari        ,55000,Friends      ,4, State      ,Any      ,Train          ,Relaxation             ,4
+Manesar          ,35000, Friends          ,5, State , Any   , Road              , Adventure       ,3
+Tawang           ,50000, Friends        ,5, State , Summer , Road               , Adventure        ,3
+Kanchipuram        ,50000,Friends      ,4, State            ,Any      ,Train,Relaxation              ,5
+Mahabalipuram   ,35000, Family           ,4, State , Winter , Road              , Cultural         ,2
+Coonoor           ,45000, Family          ,3, State , Any   , Train              , Adventure      ,3
+Kodaikanal      ,45000, Family           ,4, State , Any    , Road               , Cultural         ,3
+Kovalam         ,40000, Friends          ,4, State , Winter , Air               , Relaxation       ,4
+Mumbai          ,30000, Friends          ,4, State , Any    , Train             , Devotional       ,5
+Hampi           ,20000, Family           ,4, State , Winter , Road              , Enjoy            ,2
+Wayanad         ,35000, Family           ,5, State , Monsoon, Road               , Adventure        ,3
+Kodaikanal       ,40000,Friends      ,4, State   ,Winter   ,  Road            ,Relaxation           ,3
+Gangtok         ,50000, Family           ,7, State , Winter , Air               , Relaxation       ,3
+Andaman         ,40000, Friends          ,6, State , Any    , Road              , Adventure        ,4
+Mysuru          ,30000, Friends          ,3, State , Any    , Train             , Informational    ,3
+Puri             ,35000, Family         ,3, State , Summer , Air               , Cultural          ,4
+Kovalam         ,55000, Family           ,4, State , Winter , Road               , Relaxation       ,4
+Kanchipuram         ,55000, Friends        ,4, State , Winter ,  Road            , Cultural        ,2
+Majuli Island   ,45000,Family       ,4, State   ,Any      ,Train           ,Relaxation            ,3
+Rajasthan       ,65000, Family           ,6, State , Monsoon , Road              , Enjoy            ,3
+Sanchi           ,35000, Family         ,3, State , Monsoon, Road              , Cultural          ,2
+Darjeeling      ,45000, Friends          ,5, State , Monsoon, Road               , Adventure        ,4
+Kovalam         ,40000, Family           ,4, State , Winter , Road               , Relaxation       ,5
+Kerala          ,50000, Friends          ,5, State , Winter , Road               , Adventure        ,3
+Badami          ,30000, Family           ,3, State , Any    , Air               , Cultural         ,3
+Kerala          ,50000, Family           ,6, State , Any    , Road              , Adventure        ,4
+Tiruchirapalli   ,35000, Friends       ,3, State , Any   , Road              , Adventure      ,3
+Coonoor          ,45000,Family       ,3, State   , Monsoon , Road             ,Relaxation          ,2
+Kabini          ,50000, Family           ,6, State , Any    , Road              , Adventure        ,4
+Shillong        ,60000, Friends          ,6, State , Monsoon, Air                , Adventure        ,5
+Panhala          ,30000, Friends         ,3, State  ,Any          , Road                , Cultural        ,4
+Tiruchirapalli      ,35000, Friends         ,3, State,Monsoon , Road              ,Cultural         ,2
+Coonoor           ,35000, Friends         ,3, State   , Any , Train             , Cultural          ,4
+Kanyakumari      ,40000, Family          ,4, State , Winter , Road             , Relaxation       ,2
+Kedarnath       ,45000, Friends          ,5, State , Summer , Helicopter        , Devotional       ,3
+Kodaikanal         ,50000,Family       ,4, State             ,Any         ,Train,Relaxation              ,2
+Maheshwar        ,25000, Friends          ,3, State , Summer , Road              , Devotional       ,3
+Ajanta Ellora    ,40000,  Friends        ,3, State , Any    , Train           , Religious       ,4
+Kovalam         ,40000, Friends          ,4, State , Winter , Road               , Relaxation       ,4
+Mumbai          ,45000, Family           ,4, City  , Any    , Train             , Enjoy            ,3
+Jaipur          ,30000, Family           ,4, City  , Any    , Train             , Devotional       ,5
+Coorg           ,45000, Friends          ,5, State , Any    , Road              , Enjoy            ,4
+Shirdi          ,25000, Family           ,3, State , Any    , Road              , Cultural  ,4
+Mahabalipuram   ,35000, Family           ,4, State , Winter , Road               , Cultural         ,3
+Hyderabad       ,30000, Friends          ,4, City  , Any    , Road              , Enjoy            ,2
+Kanyakumari      ,45000,Friends      ,4, State           ,Any  ,Train , Adventure       ,4
+Jaipur          ,35000, Family           ,4, City  , Any    , Road              , Religious       ,5
+Mahabalipuram     ,50000,Family       ,4, State   ,Winter   ,Train         ,Relaxation           ,3
+Shillong        ,45000, Family           ,6, State , Any   , Road              , Adventure        ,5
+Kodaikanal       ,50000, Family       ,4, State          ,Any ,Road               ,Relaxation              ,3
+Kodaikanal       ,55000,Family       ,4, State    ,Winter    ,Train    ,Religious            ,5
+Hogenakkal       ,35000,Friends          ,5, State  , Monsoon, Road                ,  Adventure       ,3
+Madurai          ,35000, Friends         ,3, State  , Monsoon, Train             , Informational    ,3
+Kanyakumari       ,40000, Friends        ,4, State , Any , Road             , Adventure        ,2
+Rajasthan       ,50000, Family           ,5, State , Winter , Road              , Adventure        ,3
+Kanyakumari     ,40000, Friends          ,4, State , Winter , Train              , Relaxation       ,4
+Thanjavur          ,45000, Family          ,5, State      , Summer , Road              ,Relaxation        ,3
+Rameshwaram      ,45000,Family       ,4, State   ,Winter    ,Train ,Relaxation           ,3
+Udaipur         ,40000, Family           ,4, State , Winter , Air               , Cultural         ,3
+Kodaikanal         ,45000, Family       ,4, State    ,Winter    ,Road         ,Relaxation              ,3
+Gangtok         ,40000, Family           ,6, State , Any    , Road              , Adventure        ,5
+Nainital        ,40000, Friends          ,6, State , Any    , Road              , Adventure        ,3
+Munnar          ,40000, Family           ,5, State , Winter , Road              , Adventure        ,3
+Alleppey        ,55000, Friends          ,4, State , Winter , Road               , Relaxation       ,5
+Bikaner         ,45000, Friends          ,5, State , Winter , Road               , Adventure        ,4
+Kovalam         ,40000, Friends          ,4, State , Winter , Road               , Relaxation       ,4
+Rameshwaram       ,45000, Family          ,4, State , Winter , Road                , Relaxation       ,3
+Majuli Island   ,45000, Friends          ,5, State , Any    , Road              , Adventure      ,3
+Rameshwaram        ,40000, Family          ,4, State    , Any , Helicopter        , Adventure       ,4
+Varanasi        ,30000, Family           ,4, City  , Winter , Train             , Cultural         ,4
+Vrindavan        ,45000, Friends          ,6, State , Monsoon, Train             , Devotional       ,3
+Kedarnath       ,40000, Friends          ,5, State , Monsoon, Helicopter        , Devotional       ,3
+Shirdi          ,45000, Family           ,3, State , Any    , Air               , Relaxation       ,4
+Pondicherry     ,45000, Family           ,3, State , Any    , Road               , Relaxation       ,4
+Coonoor            ,55000,Family       ,3, State       ,Any  ,Train  ,Relaxation          ,4
+Rameshwaram       ,45000,Friends      ,4, State       ,Any         ,Train  ,Religious         ,5
+Darjeeling      ,50000, Friends          ,5, State , Monsoon, Road              , Adventure        ,4
+Manali          ,50000,Friends      ,6, State        ,Any        ,Train                ,Cultural               ,4
+Ziro Valley      ,50000,Family       ,5, State   ,Winter    , Ferry            ,Cultural          ,3
+Rameshwaram      ,50000,Family       ,4, State   ,Any     ,Train  ,Relaxation         ,3
+Thanjavur           ,50000,Family       ,5, State   ,Any        ,Train   ,Cultural          ,2
+Mount Abu       ,40000, Friends          ,4, State , Winter , Road              , Relaxation       ,2
+Rameswaram      ,30000, Family           ,3, State , Any    , Road              , Relaxation       ,4
+Kaziranga       ,50000, Family           ,5, State , Winter , Road               , Adventure        ,4
+Bundi            ,40000, Family          ,3, State , Any    , Road              , Cultural       ,4
+Kanyakumari     ,40000, Family           ,4, State , Winter , Road               , Relaxation       ,3
+Bikaner         ,50000, Friends          ,5, State , Winter , Road               , Adventure        ,4
+Tirthan Valley  ,50000, Friends          ,4, State , Any    , Air               , Adventure        ,5
+Ranakpur       ,35000, Family           ,3, State , Any    , Road               , Informational    ,2
+Munnar           ,35000, Family         ,3, State , Summer , Road              , Cultural        ,3
+Badami          ,35000, Family           ,3, State , Any    , Road               , Cultural         ,3
+Gokarna         ,40000, Family           ,4, State , Any    , Road               , Relaxation       ,2
+Gwalior          ,35000, Friends          ,4, State , Summer , Helicopter        , Informational    ,3
+Lonavala         ,35000, Friends        ,3, State , Monsoon , Road                ,Cultural             ,3
+Puri             ,45000,Friends      ,3, State         ,Any        ,Road       ,Cultural             ,4
+Gwalior          ,35000, Friends       ,3, State      , Any , Train             , Devotional       ,3
+Jog Falls        ,50000,Friends      ,4, State       ,Any    ,Train ,Relaxation           ,3
+Kodaikanal         ,55000,Friends      ,4, State           ,Any      ,Train ,Relaxation            ,2
+Hampi           ,20000, Family           ,3, State , Winter , Road               , Cultural         ,2
+Kanchipuram      ,45000,Family       ,4, State       , Any ,Train         , Adventure       ,4
+Ooty               ,55000,Family       ,5, State   ,Any   ,Road              ,Cultural             ,3
+Mount Abu       ,45000, Family           ,4, State , Winter , Road              , Cultural         ,2
+Kodaikanal        ,45000,Friends      ,4, State           ,Any         ,Train,Cultural            ,3
+Alleppey        ,40000, Friends          ,4, State , Winter , Train              , Relaxation       ,5
+Udaipur         ,50000, Family           ,4, State , Winter , Air                , Relaxation       ,2
+Kanchipuram         ,40000,Friends      ,4, State   ,Any         ,Train,Relaxation            ,5
+Kanyakumari         ,50000,Friends      ,4, City  ,Any      , Road              ,Religious               ,5
+Mahabalipuram    ,45000, Family         ,4, State , Summer , Road              , Relaxation      ,3
+Thanjavur        ,35000, Friends          ,4, State , Winter , Road             , Adventure        ,3
+Badami          ,30000, Friends          ,3, State , Any    , Road              , Devotional       ,5
+Rajasthan       ,50000, Friends          ,4, State , Winter , Road               , Adventure        ,3
+Shirdi          ,40000, Family           ,3, State , Any    , Train             , Devotional       ,4
+Maldives        ,40000, Family          ,3, State , Any   , Road             , Enjoy            ,2
+Tiruchirapalli      ,30000, Friends        ,3, State , Winter ,Train            , Cultural       ,3
+Kanchipuram         ,55000,Friends      ,4, State           ,Any      ,Road         ,Religious         ,5
+Rann of Kutch   ,55000, Friends          ,6, State , Any    , Road               , Adventure        ,4
+Saputara         ,50000, Family       ,6, State      , Any   ,Train ,Cultural               ,4
+Rameshwaram      ,45000, Friends          ,4, State , Summer , Road               , Adventure       ,3
+Matheran         ,60000, Family          ,4, State , Monsoon, Air               ,Relaxation            ,3
+Amritsar        ,40000, Family           ,4,  State, Winter , Road               , Cultural         ,2
+Kodaikanal         ,40000,Friends      ,4, State   ,Any         ,Road  ,Relaxation         ,3
+Mahabalipuram   ,35000, Family           ,4, State , Winter , Road              , Cultural         ,3
+Goa             ,55000, Family           ,5, State , Winter , Air               , Adventure        ,4
+Ranakpur       ,45000, Friends          ,3, State , Any    , Road               ,  Cultural         ,5
+Kaziranga       ,50000, Friends          ,5, State , Winter , Road               , Adventure        ,4
+Bundi            ,40000, Family          ,3, State , Any    , Road               , Adventure        ,4
+Alleppey        ,40000, Friends          ,4, State , Winter , Road               , Relaxation       ,3
+Pench NP         ,40000,Family       ,4, State   ,Winter   ,Train,  Adventure       ,3
+Bharatpur        ,35000, Friends        ,5, State , Any   , Road                ,  Adventure       ,3
+Alleppey        ,55000, Family           ,4, State , Winter , Road               , Relaxation       ,5
+Mahabalipuram       ,45000,Friends      ,4, State      ,Winter    ,Train           ,Religious            ,3
+Madurai           ,40000,Family       ,3, State   ,Any      , Road                 ,Relaxation             ,2
+Hogenakkal       ,50000,Family       ,4, State         ,Any          ,Train           ,Relaxation             ,3
+Mahabaleshwar   ,40000, Family           ,4, State , Summer , Road               , Relaxation       ,3
+Mandu            ,50000, Family          ,5, State , Summer , Road              , Adventure       ,4
+Tiruchirapalli    ,50000, Family           ,6, State , Any    , Road              , Cultural         ,4
+Chikmagalur      ,50000, Friends         ,3, State         , Any    , Ferry            , Adventure      ,2
+Vrindavan        ,35000, Friends      ,3,State , Any   , Road           ,Cultural         ,3
+Ooty               ,55000,Family       ,4,State    ,Winter    ,Train,Relaxation           ,5
+Mandu            ,40000, Family           ,5, State , Any   ,Road              , Cultural        ,3
+Pushkar          ,45000,Friends      ,4, State      , Any , Train              ,Religious         ,3
+Ooty               ,45000,Family       ,4, State         ,Any      , Road               ,Religious         ,5
+Kovalam         ,45000, Family           ,4, State , Winter , Air                , Relaxation       ,4
+Coonoor          ,45000, Family           ,3, State , Any    , Train             ,  Cultural         ,4
+Mcleodganj      ,45000, Friends          ,5, State , Summer , Road              , Adventure        ,4
+Kovalam         ,40000, Family           ,4, State , Winter , Road               , Relaxation       ,4
+Madurai             ,50000,Family       ,2, State       ,Winter     , Road        ,Cultural               ,4
+Matheran         ,40000, Friends          ,4, State , Any    , Road              , Cultural         ,2
+Munnar            ,45000, Friends         ,5, State , Summer , Road              , Adventure       ,2
+Kedarnath       ,45000, Friends          ,5, State , Summer , Road              , Adventure        ,4
+Cherrapunjee   ,50000, Friends        ,5, State , Summer , Road               , Adventure        ,4
+Manesar          ,50000,Friends      ,2, State      ,Any          ,Train ,Cultural                ,3
+Halebid          ,35000,Family       ,3, State        , Any  , Road               ,Cultural           ,2
+Binsar          ,50000, Friends          ,4, State , Summer , Road               , Adventure        ,2
+Rann of Kutch   ,50000, Family           ,5, State , Any    , Road               , Adventure        ,5
+Kanyakumari        ,40000,Friends      ,4, State   ,Winter     ,Train    , Relaxation      ,5
+Orchha          ,40000, Family           ,3, State , Any    , Road               , Cultural         ,4
+Ranakpur       ,30000, Family           ,3, State , Any    , Road              , Devotional       ,5
+Mahabalipuram   ,40000, Family           ,4, State , Winter , Road              , Relaxation       ,3
+Rameshwaram      ,40000,Friends      ,4, State           ,Winter     ,Road   ,Religious         ,5
+Thanjavur         ,50000, Friends          ,6, State , Summer , Road              , Adventure        ,4
+Agra            ,25000, Family           ,3, State , Any    , Road              , Devotional       ,5
+Hyderabad       ,35000, Family           ,4, City  , Winter, Train             , Relaxation       ,4
+Munnar             ,45000,Friends      ,4, State    , Any , Road             , Adventure       ,2
+Ooty             ,50000, Friends          ,5, State , Summer , Road              , Adventure        ,3
+Tawang          ,30000, Friends          ,6, State , Any    , Road              , Adventure        ,5
+Kanyakumari        ,50000,Friends      ,4, State         ,Any         ,Train,Relaxation         ,3
+Majuli Island   ,45000,Family       ,5, State   ,Any        ,Road          ,Cultural                ,3
+Aurangabad      ,60000, Friends          ,6, State , Monsoon, Road             , Adventure        ,5
+Rameshwaram      ,40000,Family       ,4, State   ,Any  ,Train               , Religious        ,3
+Ziro Valley      ,50000,  Family         ,5, State        , Any , Train             , Adventure       ,4
+Thanjavur           ,35000, Family          ,5, State , Any   , Road              , Adventure      ,3
+Kanha NP         ,40000, Friends        ,5, State   , Monsoon , Road              , Cultural       ,3
+Mahabalipuram       ,45000, Family           ,4, State , Winter , Road               , Relaxation       ,5
+Kanyakumari       ,40000,  Family         ,4, State , Monsoon, Road             , Relaxation       ,3
+Kanchipuram       ,40000,Family       ,4, State        ,Any       ,Train ,Religious            ,2
+Thanjavur          ,40000, Friends         ,5, State   , Any , Road              , Adventure       ,4
+Kovalam         ,45000, Friends          ,4, State , Winter , Air                , Relaxation       ,4
+Majuli Island   ,45000, Family        ,4, State    , Monsoon , Train           ,Religious            ,5
+Cherrapunjee   ,40000, Family          ,6, State , Summer , Road               , Adventure        ,4
+Andaman         ,40000, Friends          ,6, State , Summer , Road              , Enjoy            ,3
+Mysuru          ,35000, Family           ,3, State , Any    , Train              , Informational    ,3
+Kodaikanal        ,45000,Friends      ,4, State      ,Any         ,Train  , Religious        ,3
+Bhimbetka        ,50000,  Family         ,6, State , Summer , Road              , Adventure       ,4
+Madurai            ,35000,Family       ,3, State   ,Any        , Road                ,Cultural                ,2
+Ranakpur       ,35000, Family          ,3, State , Monsoon, Train              , Cultural         ,4
+Mysuru          ,35000, Family           ,3, State , Any    , Train              , Informational    ,3
+Ranakpur       ,40000, Family           ,3, State , Any    , Road               , Cultural         ,4
+Kanchipuram        ,50000,Family       ,4, State            ,Any    ,Train ,Cultural                ,3
+Ajanta Ellora    ,40000,Friends      ,3, State         ,Any        ,Train  , Cultural       ,4
+Guwahati        ,50000, Family           ,4, State , Any    , Road               , Relaxation       ,3
+Darjeeling      ,40000, Friends          ,5, State , Monsoon, Road              , Adventure        ,4
+Puducherry      ,40000, Family           ,4, State , Summer , Road               , Relaxation       ,3
+Amritsar        ,55000, Family           ,4, City  , Monsoon,Road         , Relaxation       ,2
+Guwahati        ,45000, Friends          ,4, State , Winter , Air                , Cultural         ,3
+Manali          ,45000, Friends          ,5, State , Summer , Road              , Adventure        ,3
+Haridwar        ,30000, Family       ,3, State , Any    , Road              , Relaxation       ,3
+Hogenakkal       ,35000, Family        ,4, State            , Summer , Road              , Adventure       ,3
+Yercaud          ,40000, Family        ,4, State     , Any , Air                , Relaxation      ,2
+Pushkar          ,40000, Family           ,3, State , Any    , Road               , Relaxation       ,3
+Badami          ,30000, Family           ,3, State , Any    , Road              , Enjoy            ,5
+Thanjavur           ,55000, Friends        ,5, State     ,Winter   , Road              , Adventure       ,4
+Badami          ,40000, Friends          ,3, State , Any    , Road              , Enjoy            ,2
+Mahabalipuram       ,40000, Friends          ,4, State , Monsoon, Road               , Enjoy            ,2
+Dwarka           ,40000, Family           ,4, State , Winter , Road              , Cultural         ,2
+Kodaikanal       ,40000,Family       ,4,State   ,Any          ,Road   ,Relaxation             ,4
+Jaisalmer       ,70000, Friends          ,6, State , Winter , Road              , Adventure        ,4
+Hyderabad       ,20000, Family           ,3, City  , Any    , Train             , Devotional       ,5
+Dalhousie        ,40000, Friends       ,5, State , Any   , Road                , Cultural        ,3
+Pondicherry     ,30000, Friends          ,3, State , Any    , Road              , Relaxation       ,4
+Mount Abu       ,50000, Family           ,6, State , Winter ,  Road           , Cultural         ,2
+Kanyakumari     ,40000, Friends          ,4, State , Winter , Air                , Relaxation       ,5
+Varanasi        ,55000, Family           ,3, City  , Any    , Train             , Informational    ,3
+Coonoor          ,35000, Family           ,3, State , Summer , Road               , Relaxation       ,4
+Ziro Valley      ,35000, Friends          ,5, State , Monsoon, Road               , Adventure        ,3
+Shirdi          ,30000, Friends          ,3, State , Any    , Train             , Informational    ,4
+Jog Falls        ,40000,Friends      ,4, State           ,Any         ,Train, Cultural       ,3
+Mumbai          ,45000, Family           ,3, State , Any    , Train             , Devotional       ,4
+Ziro Valley      ,50000, Family         ,5, State , Monsoon, Road               , Adventure        ,3
+Darjeeling      ,55000, Friends          ,5, State , Monsoon, Air               , Adventure        ,4
+Hampi           ,30000, Family           ,4, State , Winter , Road              , Cultural         ,3
+Bhimbetka        ,35000, Friends         ,3, State , Any   , Road              , Cultural        ,2
+Jog Falls        ,50000,Family       ,3, State   ,Any       ,Train ,Relaxation             ,4
+Coorg           ,50000, Family           ,3, State , Any    , Road               , Adventure        ,4
+Bundi            ,35000,  Friends        ,3, State ,Any          , Road                , Cultural        ,2
+Tiruchirapalli      ,55000,Family       ,3, State         ,Any        ,Road       ,Relaxation             ,4
+Maldives        ,50000, Friends           ,5, State , Monsoon, Air               , Relaxation       ,5
+Yercaud          ,40000,Family       ,4,State ,Monsoon , Road               ,Relaxation            ,3
+Ooty               ,40000,Family       ,4, State         ,Any         ,Train     ,Religious         ,5
+Puducherry      ,40000, Family           ,6, State , Winter , Road              , Relaxation       ,5
+Kodaikanal      ,35000, Friends          ,4, State , Any    , Road              , Enjoy            ,2
+Kashmir         ,35000, Family           ,6, State , Any    , Road               ,  Cultural         ,4
+Amritsar        ,30000, Family           ,4, City  , Winter , Road              , Relaxation       ,3
+Saputara         ,35000, Friends        ,4,State   ,Any      ,Train           ,Cultural                ,2
+Chikmagalur      ,45000, Family          ,3, State , Any  , Road              , Cultural          ,2
+Madurai           ,35000, Friends     ,3, State    , Any , Road              , Adventure       ,4
+Coorg           ,50000, Friends          ,5, State , Monsoon, Road               , Adventure        ,4
+Puri             ,35000,Friends          ,5, State , Monsoon, Train             , Relaxation       ,3
+Ooty             ,50000,Friends      ,6, State   ,Winter    ,Road         ,Cultural              ,3
+Puducherry      ,35000, Family           ,4, State , Winter , Train             , Cultural         ,3
+Mahabalipuram   ,35000, Friends          ,4, State , Winter , Road              , Cultural         ,3
+Gangtok         ,55000, Family           ,6, State , Winter , Road               , Adventure        ,4
+Wayanad         ,35000, Family           ,5, State , Monsoon, Air               , Relaxation       ,3
+Kashmir         ,60000, Friends          ,6, State , Any    , Road              , Adventure        ,4
+Shravanabelagola ,55000,Friends      ,4, State      ,Any  ,Road  ,Religious              ,3
+Tiruchirapalli      ,30000, Friends           ,3, State  , Winter , Road             , Relaxation       ,3
+Rishikesh       ,35000, Family           ,5, State , Any    , Road              , Devotional       ,3
+Munnar          ,40000, Family           ,5, State , Monsoon, Road               , Adventure        ,3
+Madurai           ,40000,Friends      ,3, State   ,Any     ,Train  ,Relaxation             ,4
+Dalhousie        ,40000, Friends           ,5, State , Summer , Helicopter        , Devotional       ,3
+Pench NP         ,45000, Friends          ,4, State , Winter , Road               , Adventure        ,5
+Rameshwaram     ,45000,Friends      ,4, State           ,Any         ,Train,Religious            ,3
+Nagarhole       ,45000, Family           ,5, State , Any    , Road               , Adventure        ,4
+Mahabaleshwar   ,20000, Family           ,4, State , Any    , Train             , Cultural         ,2
+Mumbai          ,45000, Family           ,4, State , Summer , Helicopter        , Cultural          ,3
+Rameshwaram         ,60000,Family       ,4, State        ,Any         ,Train    ,Religious            ,5
+Aurangabad      ,55000, Friends          ,4, State , Winter , Road               , Adventure        ,5
+Rishikesh       ,35000, Friends          ,5, State , Summer , Road              , Enjoy            ,3
+Yercaud          ,40000, Friends        ,5, State   , Any , Road              , Cultural         ,4
+Kaziranga       ,50000, Friends          ,5, State , Winter , Road               , Adventure        ,4
+Ajanta Ellora    ,30000,  Friends        ,3, State , Any   , Train             , Cultural       ,4
+Aurangabad      ,40000, Friends          ,4, State , Summer , Road               , Adventure        ,3
+Udaipur         ,55000, Family           ,4, State , Winter , Air               , Relaxation       ,5
+Gokarna         ,40000, Family           ,3, State , Any    , Train             , Devotional       ,5
+Kedarnath       ,55000,Friends      ,4, State   ,Monsoon ,Road              ,Relaxation              ,3
+Leh             ,70000, Friends          ,6, State , Summer , Road              , Adventure        ,4
+Pune            ,30000, Family           ,3, City  , Any    , Road              , Cultural  ,2
+Ladakh          ,70000, Family           ,4, State , Summer , Road               , Adventure        ,3
+Kedarnath       ,45000, Friends          ,5, State , Winter , Train             , Adventure        ,4
+Kanyakumari     ,45000, Friends          ,4, State , Winter , Air               , Relaxation       ,4
+Rameshwaram        ,50000, Friends         ,4, State        ,Any      ,Road  ,Relaxation             ,3
+Sanchi           ,35000, Friends     ,3, State   , Any  , Train             ,Relaxation             ,4
+Binsar          ,40000, Friends          ,4, State , Summer , Road              , Adventure        ,3
+Udaipur         ,40000, Family           ,4, State , Winter , Road              , Enjoy            ,3
+Khajuraho       ,50000, Family           ,3, State , Any    , Road               , Cultural         ,4
+Pench NP         ,50000, Friends          ,4, State ,Any , Road               , Adventure        ,3
+Tawang           ,45000, Friends      ,6, State   ,Winter , Road              , Adventure       ,4
+Panhala          ,50000, Family        ,5, State             ,Any      ,Road   ,Relaxation              ,3
+Kodaikanal         ,50000,Family       ,4, State           , Any ,Train ,Relaxation           ,3
+Pondicherry     ,35000, Family           ,3, State , Any    , Road              , Relaxation       ,4
+Andaman         ,40000, Family           ,5, State , Any    , Road              , Adventure        ,3
+Madurai           ,50000,Family       ,3, State       ,Any          ,Train           ,Cultural          ,2
+Mahabaleshwar   ,40000, Family           ,4, State , Winter , Road               , Relaxation       ,3
+Munnar             ,40000, Family           ,4, State , Winter , Air                , Relaxation       ,3
+Mahabalipuram      ,40000, Family           ,5, State , Monsoon, Road               , Adventure        ,3
+Mcleodganj      ,45000, Friends          ,5, State , Any    , Road               , Adventure        ,4
+Mcleodganj      ,55000, Friends          ,5, State , Any    , Road               , Adventure        ,4
+Saputara         ,50000, Family        ,6,State    ,Any       , Road                ,Relaxation          ,4
+Kaziranga       ,55000, Family           ,5, State , Winter , Air               , Adventure        ,4
+Kodaikanal       ,40000, Family          ,4, State   , Monsoon , Road             , Adventure       ,2
+Tiruchirapalli     ,45000,Friends      ,3, State         ,Any     ,Train,Cultural             ,5
+Mcleodganj      ,50000, Friends          ,5, State , Any    , Road              , Enjoy            ,4
+Haridwar        ,60000, Family           ,2, State , Any    , Road               , Religious       ,4
+Rajasthan       ,90000, Family           ,5, State , Winter , Road              , Adventure        ,5
+Matheran         ,40000, Friends          ,4,  State, Any    , Road              , Adventure       ,2
+Kaziranga       ,50000, Family           ,5, State , Winter , Road              , Adventure        ,4
+Rajasthan       ,50000, Family           ,6, State , Summer , Road              , Adventure        ,3
+Darjeeling      ,55000, Friends          ,5, State , Winter , Road               , Adventure        ,4
+Mysuru          ,35000, Family           ,3, State , Any    , Train             , Informational    ,3
+Rameshwaram       ,45000,Family       ,4, State      ,Any        ,Train     ,Religious         ,3
+Goa             ,35000, Friends          ,5, State , Winter , Air               , Enjoy            ,3
+Maheshwar        ,20000, Friends         ,3, State        , Monsoon ,Road       , Devotional       ,3
+Guwahati        ,35000, Family           ,4, State , Winter , Road               , Cultural         ,3
+Kerala          ,45000, Family           ,6, State , Any    , Road              , Devotional       ,5
+Badami          ,35000, Friends          ,4, State , Any    , Road               , Enjoy            ,2
+Khajjiar         ,45000, Friends       ,4,  State,Any         ,Train, Relaxation       ,2
+Kodaikanal        ,50000,Family       ,4, State   ,Any      ,Road   ,Relaxation            ,3
+Kanchipuram        ,50000,Family       ,4, State        ,Any        ,Train ,Relaxation         ,2
+Ladakh          ,40000, Friends          ,3, State , Summer , Road             , Adventure        ,3
+Kanyakumari     ,45000, Family           ,4, State , Winter , Road               , Relaxation       ,4
+Kanyakumari        ,50000, Friends        ,4, State             , Summer ,Train         ,Relaxation            ,3
+Majuli Island   ,40000, Friends        ,3, State , Summer , Road              , Religious       ,4
+Rann of Kutch   ,35000, Family           ,4, State , Monsoon, Road               , Adventure        ,3
+Aurangabad      ,50000, Friends          ,4, State , Winter , Road             , Adventure        ,3
+Tawang           ,40000, Family        ,5, State , Summer , Road              ,Relaxation              ,3
+Rann of Kutch   ,45000, Friends          ,4, State , Winter , Road              , Adventure        ,3
+Kerala          ,50000, Family           ,6, State , Any    , Road               , Adventure        ,4
+Gokarna         ,40000, Family           ,4, State , Any    , Road              , Relaxation       ,3
+Coonoor          ,45000, Family           ,3, State , Any    , Road              , Informational    ,2
+Gangtok         ,50000, Family           ,4, State , Summer , Road              , Adventure        ,3
+Cherrapunjee    ,45000,Family         ,4, State   , Winter , Train             , Cultural          ,4
+Wayanad         ,35000, Friends          ,5, State , Monsoon, Road              , Adventure        ,3
+Shirdi          ,90000, Friends          ,3, State , Any    , Road              , Devotional       ,5
+Ladakh          ,25000, Friends          ,5, State , Summer , Road              , Adventure        ,5
+Pench NP         ,40000, Friends        ,4, State , Winter , Air                , Cultural         ,2
+Ladakh          ,80000, Friends          ,7, State , Summer , Road              , Adventure        ,2
+Coorg           ,45000, Friends          ,5, State , Any    , Road              , Enjoy            ,4
+Satpura NP       ,40000, Family           ,3, State , Any    , Train              , Cultural         ,4
+Shillong        ,55000, Family           ,6, State , Monsoon, Air               , Adventure        ,5
+Yercaud          ,50000, Family           ,4, State , Winter , Ferry            , Cultural         ,2
+Kerala          ,55000, Family           ,6, State , Winter , Road               , Relaxation       ,4
+Bhimbetka        ,35000, Friends           ,5, State , Summer , Road                ,Cultural         ,3
+Kodaikanal      ,40000, Friends          ,4, State , Any    , Road               , Enjoy            ,3
+Tawang          ,40000, Friends          ,7, State , Summer , Road              , Adventure        ,3
+Coorg           ,45000, Family           ,3, State , Any    , Road               , Adventure        ,4
+Haridwar        ,25000, Family           ,3, State , Any    , Road               , Devotional       ,5
+Ajanta Ellora    ,35000, Family          ,3, State   , Any    , Road              , Cultural       ,5
+Badami          ,40000, Family           ,3, State , Any    , Road              , Enjoy            ,3
+Ladakh          ,70000, Friends          ,7, State , Summer , Road              , Adventure        ,4
+Tiruchirapalli      ,35000,Family       ,3, State   ,Winter   ,Train ,Relaxation             ,2
+Haridwar        ,45000, Family           ,3, State , Any    , Road               , Cultural         ,4
+Madurai            ,30000, Family       ,3, State   , Any  , Train              , Cultural         ,2
+Guwahati        ,35000, Friends          ,4, State , Winter , Train            , Religious      ,3
+Cherrapunjee   ,55000, Family           ,5, State , Monsoon, Air               , Adventure        ,4
+Kasol            ,35000, Friends        ,3, State , Summer , Road                , Cultural       ,3
+Gwalior          ,35000, Family         ,3, State , Any    , Train             , Religious       ,4
+Mandu            ,55000, Friends          ,5, State , Any    , Road               , Adventure        ,4
+Manali          ,60000, Family           ,5, State , Summer , Road              , Adventure        ,3
+Pondicherry     ,45000, Family           ,3, State , Any    , Road              , Relaxation       ,4
+Tawang           ,70000,Family       ,8, State        ,Any         ,Train     , Adventure         ,3
+Agra            ,30000, Family           ,3, State , Any    , Road              , Devotional       ,5
+Kerala          ,50000, Family           ,6, State , Winter , Road               , Adventure        ,4
+Bangalore       ,30000, Family           ,3, City  , Any    , Train             , Devotional       ,4
+Tirthan Valley  ,50000, Friends          ,6, State , Any    , Road               , Adventure        ,5
+Lonavala         ,35000, Family          ,3, State , Monsoon , Road           , Relaxation       ,2
+Tawang           ,70000, Family          ,5, State , Summer , Road              , Adventure        ,4
+Hyderabad       ,20000, Family           ,3, State , Any    , Train             , Devotional       ,5
+Coonoor          ,30000,Friends      ,3, State   ,Any   , Road                ,Cultural          ,2
+Maheshwar        ,45000,Family       ,3, State    ,Any    ,Road       ,Cultural               ,4
+Puri             ,35000, Family       ,3,State , Any  , Train              , Cultural         ,4
+Kanchipuram        ,40000,Friends      ,4, State       , Any , Train             ,Cultural               ,4
+Andaman         ,30000, Family         ,5, State , Any    , Road              , Adventure        ,3
+Guwahati        ,35000, Family           ,4, State , Any    , Train             , Cultural         ,3
+Nagarhole       ,50000, Friends          ,5, State , Monsoon, Road              , Adventure        ,3
+Majuli Island   ,45000, Friends         ,4,State ,Winter    , Train          ,Relaxation            ,3
+Guwahati        ,35000, Friends          ,4, State , Winter , Train             , Relaxation       ,3
+Haridwar        ,30000, Family           ,3, City  , Any    , Air               , Informational    ,5
+Mahabalipuram       ,40000, Family           ,4, State , Monsoon, Road                , Cultural         ,2
+Puri             ,35000,Family       ,3, State   ,Any        , Train             ,Cultural             ,4
+Satpura NP       ,35000, Friends          ,3, State , Any    , Road              ,Cultural         ,3
+Coonoor            ,35000, Friends        ,5, State , Summer , Road               , Cultural         ,4
+Agra            ,40000, Family           ,3, City  , Any    , Train             , Informational    ,2
+Nagarhole       ,50000, Friends          ,6, State , Any    , Road               , Adventure        ,4
+Coorg           ,35000, Friends          ,3, State , Any    , Road              , Enjoy            ,4
+Saputara         ,45000,Friends      ,4, State   ,Winter    ,Train         ,Religious         ,4
+Orchha          ,35000, Family           ,3, State , Any    , Road               , Cultural         ,2
+Kanchipuram         ,55000,Family       ,4, State   , Winter ,Road               ,Relaxation             ,3
+Pushkar          ,40000, Family         ,3, State , Any    , Road               , Cultural         ,4
+Ladakh          ,45000, Friends          ,5, State , Summer , Road               , Adventure        ,3
+Maheshwar        ,30000, Family          ,3, State , Summer , Helicopter        ,Cultural         ,3
+Rajasthan       ,60000, Family           ,6, State , Winter , Road              , Adventure        ,5
+Ooty               ,50000,Family       ,4, State    , Any ,Train           ,Religious               ,3
+Majuli Island   ,50000, Friends         ,3, State   ,Any     , Train             ,Relaxation            ,4
+Kanyakumari        ,45000,Family       ,5, State      ,Any      ,Road              ,Relaxation             ,3
+Coonoor          ,30000, Family         ,3, State , Summer , Road               , Cultural         ,4
+Jaipur          ,35000, Family           ,4, City  , Any    , Road               , Cultural         ,2
+Kabini          ,25000, Friends          ,6, State , Any    , Road               , Adventure        ,3
+Ladakh          ,35000, Friends          ,4, State , Summer , Road              , Adventure        ,3
+Badami          ,30000, Family           ,3, State , Any    , Road              , Enjoy            ,3
+Dwarka           ,40000, Family           ,4, State , Winter , Train             , Relaxation       ,3
+Munnar          ,50000,Friends      ,2, State        ,Any        ,Train   , Adventure      ,2
+Cherrapunjee   ,45000, Family           ,6, State , Summer , Road              , Adventure        ,3
+Vrindavan        ,40000, Family         ,3, State , Any    , Road               , Religious      ,4
+Cherrapunjee   ,40000, Friends          ,5, State , Monsoon, Road               , Adventure        ,4
+Ladakh          ,70000, Friends          ,5, State , Summer , Road              , Adventure        ,3
+Kanha NP         ,40000,Family         ,5, State , Any   , Road               , Adventure        ,3
+Mysuru          ,35000, Family           ,3, State , Any    , Train             , Informational    ,3
+Kedarnath       ,45000, Friends          ,5, State , Summer , Road              , Adventure        ,4
+Ooty               ,70000, Friends     ,3, State      ,Monsoon , Road              , Adventure       ,4
+Mahabalipuram   ,45000, Family           ,4, State , Winter , Road              , Cultural         ,3
+Khajjiar         ,40000, Family          ,4, State , Summer , Road              , Adventure       ,2
+Ooty            ,35000, Family          ,4, State , Winter , Road             , Relaxation       ,3
+Mahabaleshwar   ,50000, Family           ,3, State , Monsoon, Road               , Relaxation       ,3
+Mahabalipuram    ,50000,Family       ,3, State      ,Any          ,Road             ,Relaxation          ,4
+Darjeeling      ,45000, Friends          ,5, State , Monsoon, Road              , Adventure        ,3
+Puducherry      ,35000, Family           ,4, State , Winter , Road              , Relaxation       ,3
+Maheshwar        ,40000, Family           ,3, State , Summer , Train              ,  Cultural         ,4
+Orchha          ,40000, Family           ,3, State , Any    , Air               , Relaxation       ,4
+Mahabalipuram      ,40000,Family         ,3, State , Any   , Road                , Cultural        ,2
+Bharatpur        ,50000,Family       ,5,State , Any   ,Train,Relaxation             ,5
+Dalhousie        ,50000, Friends       ,5, State , Any   , Road              , Cultural       ,3
+Tiruchirapalli     ,55000, Friends          ,3, State , Any    , Air                , Enjoy            ,4
+Gokarna         ,35000, Family           ,3, State , Any    , Road               , Enjoy            ,3
+Orchha          ,55000, Family           ,3, State , Any    , Road               , Relaxation       ,4
+Rajasthan       ,20000, Friends          ,2, State , Winter , Road              , Cultural         ,4
+Coonoor          ,50000,Family       ,3, State      ,Any         ,Train  ,Relaxation          ,2
+Rishikesh       ,30000, Family        ,3, State , Any , Road              , Adventure       ,4
+Shillong        ,50000, Friends          ,6, State , Monsoon, Road               , Adventure        ,5
+Leh             ,50000, Friends          ,5, State , Summer , Road              , Adventure        ,4
+Kashmir         ,40000, Friends          ,5, State , Summer , Road               , Adventure        ,4
+Ooty               ,45000,Friends      ,4, State       ,Any   ,Train  ,Cultural               ,4
+Rameshwaram         ,45000,Family       ,4, State        ,Any         ,Train,Religious            ,5
+Mahabalipuram     ,40000,Family       ,4, State        ,Any        ,Train,Religious               ,5
+Thanjavur         ,50000,Family       ,5, State      ,Any         ,Train  ,Relaxation              ,3
+Mcleodganj      ,40000, Friends          ,5, State , Any    , Road              , Adventure        ,4
+Kodaikanal       ,40000, Family        ,4, State , Winter , Road             , Relaxation       ,3
+Binsar          ,50000, Friends          ,4, State , Summer , Road               , Adventure        ,2
+Thanjavur        ,35000, Family           ,3, State , Summer , Train             , Devotional       ,3
+Aurangabad      ,55000, Friends          ,4, State , Monsoon, Road             , Adventure        ,3
+Mahabalipuram       ,55000, Family           ,4, State , Summer , Road               , Adventure        ,5
+Tawang           ,70000, Friends         ,4, State , Summer , Train          , Relaxation       ,5
+Leh             ,55000, Friends          ,6, State , Monsoon, Road              , Adventure        ,4
+Tiruchirapalli   ,35000, Friends         ,3, State, Winter, Road                , Adventure      ,3
+Matheran         ,40000, Family           ,4, State , Monsoon, Road             , Relaxation       ,3
+Nainital        ,40000, Friends          ,5, State , Monsoon, Road              , Adventure        ,3
+Coonoor         ,35000, Friends          ,4, State , Summer , Road               , Cultural         ,2
+Kodaikanal      ,35000, Family           ,3, State , Any    , Road              , Enjoy            ,3
+Andaman         ,60000, Friends          ,5, State , Winter , Road              , Adventure        ,3
+Darjeeling      ,40000, Friends          ,5, State , Monsoon, Train              , Adventure        ,4
+Thanjavur        ,35000, Family       ,4, State   , Any , Train             , Religious      ,4
+Pench NP         ,40000,Friends      ,4, State   ,Winter,Train           , Cultural          ,2
+Panhala          ,40000, Friends          ,5, State , Monsoon, Road              , Adventure        ,4
+Kodaikanal       ,40000,Friends      ,4, State   ,Any         ,Train          ,Religious            ,5
+Puducherry      ,40000, Family           ,5, State , Winter , Road               , Relaxation       ,4
+Thanjavur        ,50000, Family           ,5, State , Winter , Ferry            , Adventure        ,3
+Bangalore       ,35000, Family           ,3, City  , Any    , Air               , Devotional       ,5
+Madurai          ,40000, Friends         ,3, State          , Any ,Train            , Cultural  ,3
+Tiruchirapalli   ,40000, Family          ,3, State ,Winter , Train             , Cultural        ,4
+Puducherry      ,45000, Family           ,5, State , Winter , Road               , Relaxation       ,3
+Wayanad         ,50000, Family           ,7, State , Monsoon, Road               , Adventure        ,3
+Udaipur         ,40000, Friends          ,4, City  , Winter , Road               , Cultural         ,3
+Bikaner         ,40000, Friends          ,5, State , Winter , Road              , Relaxation       ,4
+Ziro Valley      ,45000, Family           ,5, State , Summer , Helicopter        , Devotional       ,3
+Thanjavur          ,35000,Family       ,4, State        ,Any        , Road              ,Cultural                ,3
+Shimla          ,55000, Friends          ,5, State , Winter , Air                , Adventure        ,4
+Kanyakumari     ,40000, Friends          ,4, State , Winter , Train             , Relaxation       ,4
+Kerala          ,55000, Family           ,6, State , Winter , Road              , Adventure        ,5
+Maldives        ,55000,Family       ,6, State     ,Any     ,Train  ,Cultural               ,4
+Leh             ,55000, Friends          ,6, State , Summer , Road              , Adventure        ,4
+Kabini          ,40000, Friends          ,6, State , Summer , Road              , Adventure        ,3
+Kanyakumari       ,40000, Family         ,4,  State, Any   , Train             , Devotional       ,3
+Ooty            ,60000, Family         ,4, City  , Winter , Train             , Cultural  ,4
+Kashmir         ,65000, Family           ,7, State , Monsoon, Road              , Adventure        ,4
+Kodaikanal       ,40000,Family       ,4, State       ,Any         ,Train           ,Religious         ,3
+Kanyakumari        ,55000,Family       ,4, State          ,Any         ,Train          ,Relaxation            ,5
+Kanyakumari     ,45000, Friends          ,4, State , Winter , Road               , Relaxation       ,4
+Mahabalipuram      ,40000, Family           ,4, State , Winter , Road              , Relaxation       ,3
+Gokarna         ,35000, Friends          ,4, State , Any    , Train             , Relaxation       ,4
+Pushkar          ,50000, Family           ,3, State , Any    , Road               , Relaxation      ,4
+Rann of Kutch   ,35000, Friends          ,4, State , Winter , Road             , Enjoy            ,2
+Gokarna         ,55000, Family           ,3, State , Any    , Train             , Religious       ,4
+Kedarnath       ,45000, Friends          ,5, State , Any    , Road               , Enjoy            ,3
+Bangalore       ,30000, Family           ,3, City  , Any    , Train             , Informational    ,3
+Thanjavur          ,45000,Family       ,5, State       ,Any         ,Train,Relaxation             ,3
+Ooty             ,50000,Friends      ,5, State   , Monsoon,Train          ,Cultural             ,3
+Pune            ,30000, Family           ,3, City  , Any    , Road              , Cultural         ,2
+Binsar          ,45000, Family           ,4, State , Summer , Train             , Enjoy            ,4
+Rajasthan       ,50000, Family           ,6, State , Summer , Road              , Adventure        ,5
+Chikmagalur      ,45000, Family       ,3, State  ,Any     ,Road   , Cultural       ,3
+Jog Falls        ,35000, Friends       ,4, State , Summer , Road              , Religious      ,5
+Alleppey        ,40000, Friends          ,4, State , Winter , Train              , Relaxation       ,3
+Tirthan Valley  ,50000, Friends          ,4, State , Any    , Road               , Adventure        ,5
+Ooty               ,40000,Family       ,4, State, Any , Road             , Cultural        ,2
+Rameshwaram         ,45000,Family       ,4, State   ,Any        ,Road         ,Cultural            ,5
+Aurangabad      ,50000, Family           ,4, State , Winter , Road             , Cultural         ,3
+Binsar          ,40000, Friends          ,4, State , Winter , Road              , Adventure        ,5
+Munnar           ,50000,Friends      ,6, State         ,Any     ,Train          ,Relaxation            ,4
+Ooty             ,55000,Friends      ,8, State   ,Winter,Train          ,Religious         ,5
+Saputara         ,40000, Family        ,4, State      , Any , Road             , Adventure        ,2
+Rameswaram      ,30000, Family           ,3,  State, Any    , Train             , Devotional       ,4
+Hyderabad       ,35000, Family           ,3, City  , Any    , Road              , Informational    ,2
+Tawang          ,55000, Family           ,6, State , Monsoon, Road              , Adventure        ,4
+Ranthambore      ,50000,Friends      ,4, State       ,Any      ,Train           ,Relaxation           ,3
+Badami          ,30000, Family           ,3, State , Any    , Road              , Devotional       ,5
+Agra            ,30000, Family           ,3, State , Any    , Road              , Relaxation       ,5
+Nainital        ,40000, Family           ,5, State , Summer , Road              , Adventure        ,3
+Kerala          ,35000, Friends          ,5, State , Summer , Road              , Adventure        ,4
+Hampi           ,35000, Family           ,4, State , Winter , Road              , Cultural         ,3
+Kovalam         ,45000, Friends          ,4, State , Winter , Air               , Relaxation       ,4
+Kanyakumari        ,50000,Friends      ,4, State       ,Any      ,Train           ,Relaxation          ,2
+Kodaikanal       ,45000,Friends      ,3, State   ,Any        ,Road               ,Religious         ,5
+Kodaikanal      ,35000, Friends          ,4, State , Any    , Road              , Enjoy            ,3
+Puducherry      ,40000, Family           ,4, State , Winter , Air                , Cultural         ,3
+Bharatpur        ,35000,Friends          ,3, State, Monsoon ,Road               , Cultural       ,3
+Mysuru          ,35000, Family           ,3, State , Any    , Train             , Informational    ,3
+Jog Falls        ,45000,Family       ,4, State      ,Any ,Train ,Religious            ,3
+Kasol            ,45000,Friends      ,3, State   ,Any        , Train             ,Cultural          ,4
+Kedarnath       ,40000, Friends          ,7, State , Summer , Air               , Adventure        ,4
+Yercaud          ,45000, Family           ,6, State , Summer , Road               , Adventure        ,5
+Shillong        ,50000, Family           ,6, State , Monsoon, Air               , Adventure        ,5
+Manesar          ,40000, Family          ,5, State , Any   , Train           ,  Cultural         ,4
+Panhala          ,35000,Family       ,3, State    ,Any         , Road                ,Relaxation        ,3
+Mount Abu       ,50000, Family           ,4, State , Winter , Air                , Relaxation       ,2
+Chikmagalur      ,35000, Friends     ,3, State , Any   , Road                , Cultural       ,3
+Ooty               ,50000, Family         ,6, State , Winter , Road             , Adventure        ,3
+Kovalam         ,45000, Friends          ,4, State , Winter , Air               , Relaxation       ,4
+Jaisalmer       ,70000, Friends          ,6, State , Winter , Road              , Adventure        ,4
+Tawang           ,55000, Friends        ,5, State , Any   , Road               , Adventure        ,3
+Bangalore       ,30000, Family           ,3, State , Any    , Road              , Informational    ,5
+Mahabalipuram   ,40000, Family           ,4, State , Winter , Road               , Cultural         ,3
+Madurai            ,45000,Friends      ,3, State        ,Any        ,Train   ,Cultural                ,2
+Shillong        ,45000, Family           ,6, State , Summer , Road               , Adventure        ,5
+Kodaikanal       ,40000,Family       ,4, State           ,Any      ,Road             , Cultural          ,2
+Bundi            ,45000, Family         ,3, State , Any    ,Train            , Cultural        ,2
+Satpura NP       ,30000, Friends         ,3, State , Any   , Road                , Cultural        ,2
+Ranthambore      ,40000, Friends          ,5, State , Winter , Road               , Adventure        ,3
+Ladakh          ,80000, Family         ,7, State , Summer , Road              , Adventure        ,4
+Ajanta Ellora    ,40000, Family         ,3, State , Any    , Road               , Adventure       ,4
+Bangalore       ,30000, Family           ,3,State , Any    , Air               , Enjoy            ,2
+Majuli Island   ,50000,Family       ,3, State             ,Any        ,Train           ,Cultural          ,2
+Badami          ,30000, Family           ,3, City  , Any    , Train             , Informational    ,3
+Khajuraho       ,35000, Family           ,3, State , Any    , Road              , Cultural         ,2
+Puri            ,35000, Family           ,4, State , Any    , Road               , Cultural  ,2
+Kovalam         ,40000, Friends          ,4, State , Winter , Air                , Relaxation       ,4
+Jaipur          ,40000, Family           ,4, State , Winter , Air                , Cultural         ,3
+Kodaikanal      ,40000, Friends          ,4, State , Any    , Road               , Enjoy            ,2
+Bangalore       ,30000, Family           ,3, City  , Any    , Train             , Informational    ,4
+Alleppey        ,40000, Friends          ,4, State , Winter , Road              , Relaxation       ,5
+Bikaner         ,55000, Friends          ,5, State , Winter , Road               , Adventure        ,4
+Hyderabad       ,40000, Family           ,3, City  , Any    , Road               , Cultural         ,4
+Gwalior          ,35000, Friends           ,3, City  , Any    , Train           , Informational    ,3
+Shillong        ,50000, Friends          ,6, State , Monsoon, Road             , Adventure        ,5
+Mount Abu       ,45000, Family           ,4, State , Winter , Road              , Relaxation       ,3
+Shillong        ,60000, Friends          ,6, State , Monsoon, Air               , Adventure        ,5
+Binsar          ,40000, Friends          ,7, State , Monsoon, Road              , Adventure        ,3
+Rishikesh       ,55000, Family           ,5, State , Summer , Road               , Adventure        ,3
+Amritsar        ,30000, Family           ,4, City  , Any    , Train             , Devotional       ,3
+Mysuru          ,35000, Friends          ,3, State , Any    , Road               , Informational    ,3
+Tawang          ,40000, Friends          ,5, State , Any   , Road              , Enjoy            ,3
+Kanyakumari        ,55000,Family       ,4, State           ,Winter   ,Train,Relaxation           ,2
+Munnar           ,40000,Friends      ,5, State   ,Any     ,Train           ,Cultural            ,4
+Darjeeling      ,50000, Friends          ,5, State , Monsoon, Road               , Adventure        ,3
+Kanyakumari     ,50000, Friends          ,4, State , Winter , Train             , Relaxation       ,4
+Kodaikanal        ,45000, Family         ,4, State    ,Winter     , Train           , Relaxation      ,2
+Thanjavur         ,40000, Friends         ,5, State    , Winter , Road              , Relaxation        ,4
+Khajuraho       ,35000, Family           ,3, State , Any    , Road              , Enjoy            ,3
+Pondicherry     ,50000, Family           ,3, State , Any    , Road               , Relaxation       ,4
+Rameshwaram      ,40000, Family       ,4, State    , Any , Road             , Adventure         ,3
+Shirdi          ,35000, Family           ,4, State , Any    , Train             , Enjoy            ,5
+Munnar           ,55000,Friends      ,5, State   ,Monsoon ,Road         ,Cultural             ,3
+Darjeeling      ,45000, Friends          ,5, State , Monsoon, Road               , Adventure        ,4
+Puri             ,35000, Family          ,3,  State, Any , Train              , Cultural       ,4
+Cherrapunjee   ,45000, Friends          ,6, State , Monsoon,Road          , Adventure        ,4
+Majuli Island   ,35000, Family        ,3,  State,Any        , Train             ,Cultural             ,4
+Kasol            ,35000, Friends         ,3, State , Any    , Train             , Adventure      ,4
+Mandu            ,35000, Family           ,5, State , Any    , Road              , Enjoy            ,3
+Bundi            ,35000, Friends         ,3, State   ,Winter , Road              ,Cultural         ,3
+Ziro Valley      ,55000,Friends      ,5, State   ,Any      ,Train,Cultural               ,3
+Kovalam         ,45000, Friends          ,4, State , Winter , Train             , Relaxation       ,4
+Leh             ,40000, Friends          ,6, State , Summer , Road               , Adventure        ,4
+Shirdi          ,35000, Friends          ,3, City  , Any    , Train             , Informational    ,4
+Shimla          ,50000, Friends          ,5, State , Winter , Train             , Cultural         ,3
+Hampi           ,40000, Family           ,3, State , Any    , Road               , Enjoy            ,2
+Leh             ,20000, Friends          ,6, State , Summer , Road              , Adventure        ,4
+Alleppey        ,45000, Friends          ,4, State , Winter , Road              , Relaxation       ,3
+Mumbai          ,35000, Friends          ,4, City  , Any    , Train             , Enjoy            ,3
+Mount Abu       ,45000, Family           ,4, State , Winter , Road               , Relaxation       ,4
+Thanjavur          ,40000,Friends      ,2, State         ,Winter, Road                ,Cultural             ,3
+Puducherry      ,40000, Friends          ,4, State , Winter , Road               , Relaxation       ,5
+Coonoor            ,40000,Friends      ,3, State         ,Any        ,Train   ,Cultural                ,2
+Mahabalipuram       ,55000, Family           ,5, State , Any    , Road               , Adventure        ,3
+Goa             ,45000, Friends          ,5, State , Winter , Road               , Adventure        ,4
+Bikaner         ,40000, Friends          ,5, State , Winter , Road              , Adventure        ,4
+Kaziranga       ,45000, Family           ,5, State , Winter , Road               , Adventure        ,4
+Tiruchirapalli     ,40000,Friends      ,3, State   ,Any   ,Train    , Religious       ,4
+Madurai            ,25000,Family       ,3, State         , Any ,Train , Cultural        ,2
+Ladakh          ,60000, Friends          ,7, State , Monsoon, Air                , Adventure        ,4
+Munnar             ,40000, Family        ,4, State, Winter , Road              , Adventure       ,4
+Dwarka           ,40000, Family           ,4, City  , Winter , Air               , Cultural         ,2
+Wayanad         ,35000, Friends          ,5, State , Summer , Road              , Adventure        ,3
+Kerala          ,45000, Family           ,4, State , Winter , Road               , Relaxation       ,3
+Alleppey        ,50000, Friends          ,4, State , Winter , Road               , Relaxation       ,5
+Ooty               ,60000,Family       ,2, State          ,Any  ,Train           ,  Cultural         ,4
+Gwalior          ,35000, Friends        ,4, City  , Any , Air               , Adventure       ,2
+Panhala          ,35000, Family        ,3, State  , Any   , Road               ,Cultural         ,3
+Manesar          ,40000, Family       ,5, State , Any   , Road                , Cultural        ,3
+Gwalior          ,35000, Family         ,3,State , Any  , Road               ,Cultural         ,3
+Wayanad         ,45000, Family           ,5, State , Monsoon, Road              , Adventure        ,3
+Manesar          ,40000, Family           ,5, State , Monsoon, Road               , Adventure        ,3
+Pondicherry     ,40000, Family           ,3, State , Any    , Road               , Relaxation       ,4
+Puri             ,50000, Friends         ,5, State   ,Winter    , Train              ,Cultural              ,3
+Sanchi           ,40000,Family       ,3, State       ,Any     ,Road       ,Cultural          ,3
+Bikaner         ,50000, Family           ,5, State , Winter , Air               , Adventure        ,4
+Tawang          ,55000, Family           ,6, State , Any    , Road               , Adventure        ,3
+Jaisalmer       ,50000, Friends          ,4, State , Summer , Road              , Adventure        ,4
+Leh             ,40000, Friends          ,7, State , Summer , Road              , Adventure        ,3
+Pondicherry     ,40000, Family           ,3, State , Any    , Road              , Enjoy            ,4
+Gangtok         ,40000, Friends          ,4, State , Summer , Road               , Devotional       ,3
+Omkareshwar      ,50000, Family           ,4, State , Monsoon, Road               , Relaxation       ,3
+Ranakpur       ,35000, Family           ,3, State , Any    , Road               , Cultural         ,5
+Ladakh          ,50000, Family           ,7, State , Summer , Road               , Adventure        ,3
+Udaipur         ,40000, Friends          ,4, City  , Winter , Road              , Cultural         ,2
+Rann of Kutch   ,45000, Friends          ,4, State , Any    , Road              , Adventure        ,2
+Kanchipuram         ,45000,Family       ,4, State    ,Any       , Road                ,Relaxation             ,3
+Cherrapunjee   ,55000, Family          ,6, State , Any   , Road               , Adventure        ,4
+Mahabalipuram      ,75000, Family          ,7, State    , Winter , Road               , Adventure        ,3
+Tiruchirapalli      ,50000,Family       ,3, State     ,Winter,Train          ,Relaxation             ,2
+Kanchipuram      ,40000, Friends         ,3, State , Any    , Road             , Adventure       ,2
+Lonavala         ,45000, Family           ,3, State , Monsoon, Road               , Relaxation       ,3
+Kanyakumari      ,45000,Family       ,4, State   ,Any   ,Train         ,Religious            ,5
+Rameshwaram     ,35000, Friends         ,4, State   , Monsoon, Train             ,Cultural            ,3
+Pune            ,30000, Family           ,3, City  , Any    , Road              , Informational    ,3
+Ajanta Ellora    ,35000, Friends         ,3,State    , Any  , Train             ,  Cultural         ,4
+Hyderabad       ,55000, Family           ,3, City  , Any    , Air               , Informational    ,2
+Khajuraho       ,45000, Family           ,3, State , Any    , Road              , Enjoy            ,2
+Puri            ,25000, Friends          ,4, State , Summer , Road              , Enjoy            ,2
+Darjeeling      ,45000, Friends          ,5, State , Monsoon, Road               , Adventure        ,4
+Kanyakumari      ,55000,Friends      ,4, State      ,Winter    ,Train,Relaxation         ,3
+Rameshwaram      ,50000, Friends       ,3, State, Any    ,Road              , Adventure      ,2
+Cherrapunjee   ,60000, Friends          ,6, State , Monsoon, Road               , Adventure        ,4
+Rajasthan       ,50000, Family           ,5, State , Summer , Road              , Adventure        ,3
+Gokarna         ,40000, Friends          ,4, State , Any    , Road               , Relaxation       ,3
+Pune            ,30000, Family           ,3, State , Any    , Train             , Informational    ,2
+Kasol            ,50000,  Family         ,3, State , Any    , Train             , Cultural        ,4
+Rameshwaram        ,50000,Friends      ,4, State         , Any ,Train    , Adventure       ,5
+Thanjavur           ,50000,Family       ,5, State           ,Any        , Road                 ,Cultural          ,3
+Ladakh          ,60000, Friends          ,5, State , Summer , Road               , Adventure        ,4
+Guwahati        ,35000, Family           ,4, State , Winter , Road               , Cultural         ,3
+Gwalior          ,35000, Family         ,3, City  , Any    , Train             , Religious        ,3
+Bhimbetka        ,35000,Friends      ,3, State       ,Any     ,Train   ,Cultural                ,3
+Kodaikanal       ,50000,Family       ,6, State     ,Any        ,Train           ,Cultural               ,4
+Cherrapunjee   ,50000, Friends         ,6, State , Monsoon, Road             , Adventure        ,4
+Kanyakumari     ,35000, Family           ,4, State , Winter , Train              , Relaxation       ,3
+Kovalam         ,40000, Family           ,4, State , Winter , Air               , Relaxation       ,4
+Tawang          ,60000, Family           ,6, State , Monsoon, Road               , Adventure        ,3
+Kanchipuram      ,35000, Family           ,4, City  , Winter , Road              , Cultural         ,2
+Puri            ,40000, Friends          ,4, State , Winter , Road               , Relaxation       ,3
+Thanjavur          ,70000,Friends      ,6, State   ,Any   ,Road       ,Cultural             ,4
+Kanyakumari        ,45000,Family       ,6, State      ,Any          , Road               , Adventure       ,3
+Kabini          ,40000, Family           ,4, State , Winter , Road               , Relaxation       ,3
+Hampi           ,25000, Friends          ,4, State , Winter , Road               , Relaxation       ,5
+Rameshwaram     ,40000,Family       ,4, State    ,Winter   ,Train               ,Religious         ,3
+Haridwar        ,30000, Family           ,3, State , Any    , Road               , Informational    ,5
+Shillong        ,50000, Friends          ,5, State , Monsoon, Road              , Adventure        ,5
+Ooty               ,60000,Family       ,5, State   ,Any         ,Train,Cultural                ,4
+Tawang           ,55000,Family       ,6, State        ,Any         ,Train,Relaxation          ,4
+Mount Abu       ,45000, Family           ,4, State , Winter , Road              , Relaxation       ,2
+Hampi           ,40000, Family           ,4, State , Winter , Road               , Relaxation       ,2
+Orchha          ,35000, Friends          ,4, State , Winter , Road              , Relaxation       ,2
+Kashmir         ,55000, Friends          ,6, State , Summer , Road               , Adventure        ,4
+Munnar          ,35000, Friends        ,4, State , Summer , Road              , Relaxation       ,3
+Tirthan Valley  ,40000, Friends          ,4, State , Summer , Road               , Adventure         ,3
+Ranakpur       ,45000, Family           ,3, State , Any    , Road               , Cultural         ,5
+Ooty            ,45000, Friends          ,5, State , Monsoon, Road              , Relaxation       ,3
+Madurai             ,50000,Family       ,4, State   ,Any  ,Train ,Religious            ,3
+Pondicherry     ,45000, Family           ,3, State , Any    , Road               , Relaxation       ,4
+Bikaner         ,55000, Friends          ,5, State , Winter , Road              , Adventure        ,4
+Rajasthan       ,50000, Family           ,6, State , Any    , Road              , Cultural         ,2
+Pench NP         ,35000, Friends         ,4, State , Winter , Road             , Cultural         ,3
+Ooty               ,150000, Friends         ,7, State        ,Any      ,Train           , Adventure       ,4
+Alleppey        ,40000, Friends          ,4, State , Winter , Road              , Relaxation       ,5
+Bangalore       ,30000, Friends          ,3, City  , Any    , Train             , Enjoy            ,3
+Bangalore       ,25000, Family           ,3, City  , Any    , Train             , Informational    ,5
+Thanjavur           ,50000, Family       ,4, State   ,Winter, Train               ,Cultural          ,2
+Alleppey        ,40000, Friends          ,4, State , Winter , Road              , Relaxation       ,5
+Tawang          ,30000, Friends          ,6, State , Summer , Road              , Adventure        ,3
+Puri             ,35000,Family       ,4, State   ,Monsoon ,Train , Adventure       ,3
+Tawang          ,35000, Family           ,5, State , Summer , Road               , Adventure        ,3
+Kodaikanal      ,35000, Friends          ,4, State , Any    , Air               , Enjoy            ,3
+Pushkar          ,40000, Family         ,3, State , Any    , Road               , Cultural         ,3
+Binsar          ,40000, Friends          ,4, State , Winter , Road             , Adventure        ,3
+Thanjavur           ,55000,Friends      ,5, State   ,Any         ,Road              ,Relaxation             ,3
+Kaziranga       ,45000, Family           ,5, State , Winter , Road              , Adventure        ,4
+Coorg           ,35000, Friends         ,3, State , Any    , Road              , Enjoy            ,4
+Tirthan Valley  ,50000, Friends          ,4, State , Summer , Road               , Adventure        ,5
+Kanyakumari      ,50000,Friends      ,4, State       ,Any         ,Train,Cultural               ,3
+Rajasthan       ,50000, Family           ,8, State , Monsoon, Road               , Adventure        ,3
+Dwarka           ,55000,Friends      ,4, State      ,Any      ,Train          , Relaxation       ,5
+Mcleodganj      ,45000, Friends          ,5, State , Any    , Road               , Adventure        ,4
+Tawang           ,55000, Friends         ,5, State , Any   , Road             , Adventure       ,3
+Kanyakumari       ,50000,Family       ,5, State      ,Any        ,Road              ,Relaxation             ,5
+Leh             ,20000, Friends          ,7, State , Summer , Road               , Adventure        ,4
+Jaipur          ,35000, Family           ,4, City  , Any    , Train             , Enjoy            ,3
+Kovalam         ,45000, Family           ,4, State , Winter , Train             , Relaxation       ,4
+Ranakpur       ,45000,Family       ,3, State        ,Any       ,Train , Adventure       ,4
+Panhala          ,50000, Family         ,5, State , Monsoon, Road                , Devotional       ,3
+Tirthan Valley  ,35000, Friends          ,4, State , Summer , Road              , Adventure        ,5
+Kanyakumari         ,60000,Family       ,4, State           ,Any         ,Train         ,Religious         ,5
+Pondicherry     ,45000, Family           ,3, State , Any    , Road               , Relaxation       ,4
+Dwarka           ,45000, Family          ,4, State , Winter , Train              , Relaxation       ,3
+Khajuraho       ,35000, Family           ,3, State , Any    , Road              , Enjoy            ,2
+Madurai          ,35000, Friends         ,3, State  , Any , Train              , Cultural         ,4
+Ooty               ,50000,Family       ,5, State   ,Any      ,Train                ,Relaxation        ,4
+Wayanad         ,35000, Friends          ,5, State , Monsoon, Road              , Adventure        ,3
+Pench NP         ,55000,Friends      ,4, State   , Any ,Train     , Adventure       ,3
+Bikaner         ,40000, Friends          ,5, State , Winter , Road              , Adventure        ,4
+Khajjiar         ,50000, Family          ,4, State, Monsoon, Road             , Relaxation       ,2
+Kanyakumari       ,55000,Family       ,4, State      ,Any      ,Train           ,Religious           ,5
+Kedarnath       ,35000, Friends          ,5, State , Any    , Road               , Enjoy            ,3
+Munnar             ,55000, Family           ,5, State , Monsoon, Road               , Adventure        ,3
+Madurai             ,50000,Family       ,4, State    ,Any      ,Train          ,Relaxation             ,2
+Dalhousie        ,55000,Family       ,5, State   ,Any     ,Road             ,Cultural               ,4
+Amritsar        ,40000, Family           ,4, State , Winter , Road               , Relaxation       ,4
+Wayanad         ,35000, Family           ,5, State , Monsoon, Road              , Adventure        ,3
+Cherrapunjee   ,40000, Friends          ,5, State , Monsoon, Road             , Adventure        ,3
+Madurai            ,45000,Friends      ,3, State             ,Monsoon ,Train  ,Relaxation          ,4
+Hogenakkal       ,35000, Friends         ,4,State , Any   , Train              , Cultural       ,3
+Madurai           ,45000,Family       ,3, State   ,Any        ,Train   ,Cultural             ,2
+Bundi            ,40000, Friends         ,3, State      ,Any        , Road               ,  Cultural         ,4
+Manali          ,50000, Family           ,5, State , Monsoon, Helicopter        , Adventure        ,3
+Rameswaram      ,30000, Family           ,3, State , Any    , Road               , Cultural         ,4
+Binsar          ,45000, Friends          ,4, State , Summer , Road              , Adventure        ,3
+Kanchipuram      ,40000,Friends      ,4, State      ,Any     ,Train,Relaxation           ,3
+Kashmir         ,50000, Friends          ,7, State , Summer , Road              , Adventure        ,4
+Jaipur          ,45000, Family           ,4, City  , Any    , Road               , Relaxation       ,5
+Jog Falls        ,60000, Family         ,6,State , Winter, Air               , Religious      ,3
+Pench NP         ,40000, Friends          ,4, State , Summer , Road              , Adventure        ,5
+Kodaikanal         ,55000,Family       ,4, State      ,Any         ,Train         ,Religious         ,5
+Amritsar        ,40000, Family           ,4, State , Winter , Train              , Cultural         ,3
+Pondicherry     ,35000, Family           ,3, State , Any    , Road               , Devotional       ,4
+Munnar            ,35000, Friends        ,3, State , Winter, Road               ,  Cultural         ,4
+Pune            ,30000, Family           ,3, City  , Any    , Road              , Informational    ,2
+Mahabalipuram     ,40000, Friends       ,5, State , Summer , Road              , Adventure       ,4
+Ladakh          ,65000,Family           ,8, State , Monsoon, Air               , Cultural        ,5
+Maheshwar        ,65000, Friends       ,2, State , Summer , Road              , Cultural        ,3
+Varanasi        ,50000, Family           ,2, State , Any    , Air               , Devotional       ,3
+Tawang           ,35000, Friends         ,3, State        , Winter, Road              , Adventure       ,4
+Kodaikanal      ,40000, Friends          ,4, State , Any    , Road               , Enjoy            ,3
+Thanjavur          ,50000,Family       ,5, State        ,Any      ,Train          ,Cultural             ,3
+Bharatpur        ,35000, Friends      ,3, State  , Winter,Road       ,  Cultural         ,4
+Rameshwaram         ,45000,Friends      ,4, State             ,Any        ,Train ,Religious         ,5
+Kovalam         ,40000, Friends          ,4, State , Winter , Air               , Relaxation       ,4
+Kanchipuram        ,35000, Family           ,4, State , Winter , Train             , Relaxation       ,5
+Hyderabad       ,35000, Family           ,3, State , Any    , Helicopter        , Informational    ,3
+Coonoor           ,55000,Family       ,3, State     ,Any        ,Train,Cultural               ,4
+Kanyakumari     ,45000, Family           ,4, State , Winter , Train             , Relaxation       ,4
+Bhimbetka        ,35000, Family         ,3, State , Any , Road               , Cultural        ,4
+Pondicherry     ,30000, Friends          ,3, State , Any    , Road              , Relaxation       ,4
+Nagarhole       ,30000, Friends          ,5, State , Any    , Road              , Enjoy            ,4
+Bikaner         ,40000, Friends          ,5, State , Monsoon, Road               , Adventure        ,4
+Coonoor          ,45000,Family       ,3, State        ,Any        , Road                ,Cultural             ,2
+Cherrapunjee   ,55000, Friends          ,5, State , Monsoon, Road               , Adventure        ,4
+Ooty               ,55000, Family        ,5, State , Winter, Road               , Adventure        ,4
+Mahabalipuram      ,45000,Family       ,5, State   ,Any          ,Train  , Relaxation        ,4
+Rishikesh       ,40000, Family           ,5, State , Monsoon, Road               , Cultural         ,3
+Munnar          ,40000, Family           ,5, State , Monsoon, Road              , Adventure        ,3
+Goa             ,50000, Friends          ,5, State , Summer , Road              , Adventure        ,4
+Kanchipuram        ,40000, Friends        ,4, State    , Any , Road              , Adventure       ,5
+Andaman         ,55000, Family           ,5, State , Monsoon, Road               , Adventure        ,5
+Jog Falls        ,45000, Family          ,4, State           , Any , Road               , Adventure       ,5
+Pondicherry     ,30000, Family           ,3, State , Any    , Road               , Relaxation       ,4
+Alleppey        ,45000, Friends          ,4, State , Winter , Road              , Relaxation       ,3
+Mysuru          ,45000, Friends          ,3, State , Any    , Road               , Informational    ,3
+Darjeeling      ,45000, Friends          ,6, State , Monsoon, Road              , Adventure        ,4
+Ooty               ,50000, Friends         ,6, State            ,Any          , Helicopter        ,Cultural          ,3
+Chikmagalur      ,35000, Friends        ,3, State , Any   , Road               , Cultural        ,3
+Aurangabad      ,50000, Friends          ,4, State , Winter , Road             , Adventure        ,3
+Puducherry      ,45000, Family           ,4, State , Winter , Air                , Relaxation       ,3
+Shravanabelagola ,40000, Family           ,4, State , Summer , Road              , Relaxation       ,2
+Darjeeling      ,45000, Friends          ,5, State , Summer , Road               , Adventure        ,4
+Udaipur         ,50000, Family           ,4, State , Winter , Road               , Cultural         ,3
+Darjeeling      ,45000, Friends          ,5, State , Monsoon, Road              , Adventure        ,4
+Agra            ,30000, Friends          ,3, State , Any    , Road              , Devotional       ,5
+Cherrapunjee   ,40000, Family           ,6, State , Summer , Road              , Adventure        ,4
+Shirdi          ,60000, Friends          ,3, State , Any    , Air               , Relaxation       ,5
+Rameshwaram     ,35000, Family          ,4,State , Any , Train             , Relaxation       ,4
+Maheshwar        ,30000, Family         ,3, State , Summer , Road              , Informational    ,3
+Matheran         ,45000, Friends         ,4, State    , Summer ,Train            , Cultural          ,2
+Agra            ,30000, Family           ,3, State , Any    , Train             , Devotional       ,5
+Ooty            ,40000, Friends         ,3, State   , Any , Air               , Adventure       ,4
+Kovalam         ,50000, Family           ,4, State , Winter , Road               , Relaxation       ,2
+Mumbai          ,35000, Family           ,4, City  , Any    , Train             , Enjoy            ,3
+Alleppey        ,50000, Family           ,4, State , Winter , Train              , Relaxation       ,5
+Aurangabad      ,40000, Friends          ,4, State , Summer , Road              , Adventure        ,5
+Shillong        ,40000, Friends          ,6, State , Monsoon, Train             , Adventure        ,5
+Aurangabad      ,50000, Friends          ,4, State , Winter , Road              , Adventure        ,3
+Kerala          ,50000, Family           ,6, State , Winter , Road               , Adventure        ,4
+Kanyakumari         ,45000,Family       ,4, State    , Any , Road             , Adventure       ,2
+Gokarna         ,35000, Family           ,4, State , Any    , Road              , Enjoy            ,3
+Nagarhole       ,35000, Family           ,3, State , Monsoon, Train             , Devotional       ,4
+Munnar           ,40000, Family         ,3, State , Any   , Road             ,Cultural         ,3
+Thanjavur          ,45000,Family       ,5, State   ,Any      ,Road   ,Cultural          ,3
+Cherrapunjee   ,70000, Friends          ,5, State , Summer , Road              , Adventure        ,4
+Jaisalmer       ,50000, Friends          ,6, State , Winter , Road              , Adventure        ,4
+Hyderabad       ,30000, Family           ,3, City  , Any    , Train             , Devotional       ,5
+Ooty               ,70000, Family       ,10, State    ,Monsoon, Road              , Adventure      ,2
+Dwarka           ,35000, Family           ,4, City  , Winter , Train             , Cultural         ,3
+Jaisalmer       ,55000, Friends          ,6, State , Winter , Road               , Adventure        ,4
+Binsar          ,50000, Friends          ,4, State , Summer , Road               , Adventure        ,2
+Coonoor            ,60000,Family       ,3, State          ,Winter    ,Train,Cultural                ,2
+Kerala          ,35000, Family           ,4, State , Winter , Road               , Enjoy            ,2
+Binsar          ,55000, Friends          ,4, State , Winter , Road               , Relaxation       ,2
+Thanjavur          ,45000,Family         ,5,State , Any   ,Train, Adventure       ,4
+Tiruchirapalli     ,40000,Friends      ,3, State           ,Any      , Road                ,Cultural                ,2
+Pench NP         ,40000, Family           ,4, State , Winter , Road             , Relaxation       ,3
+Ooty               ,70000,Family       ,7,State    ,Any         ,Train           ,Cultural            ,4
+Coonoor          ,60000,Family       ,3, State        ,Any   ,Train                ,Cultural                ,2
+Tiruchirapalli     ,45000,Friends      ,3, State      ,Any        ,Train   ,Relaxation        ,2
+Badami          ,30000, Friends          ,3, State , Any    , Road              , Adventure        ,3
+Rameshwaram       ,45000,Friends      ,4, State     ,Any      ,Road   ,Relaxation           ,3
+Mahabalipuram    ,45000,Friends      ,5, State   ,Winter    , Road                ,Relaxation            ,3
+Thanjavur         ,70000,Friends          ,7, State , Any   , Road              , Adventure       ,4
+Pune            ,30000, Family           ,3, City  , Any    , Road              , Cultural         ,2
+Mahabalipuram      ,90000,Friends      ,3, State   ,Any    ,Train ,Religious         ,4
+Thanjavur         ,70000, Friends         ,4, State   ,Winter    ,Road             ,Relaxation         ,3
+Rameshwaram       ,50000,Friends      ,4, State       ,Any   ,Train          ,Cultural               ,2
+Alleppey        ,40000, Friends          ,4, State , Winter , Road              , Relaxation       ,5
+Kodaikanal         ,50000,Friends      ,4, State    ,Any         ,Train    ,Religious         ,5
+Puri            ,35000, Family           ,4, State , Any    , Train             , Enjoy            ,3
+Agra            ,35000, Family           ,3, City  , Any    , Air               , Informational    ,5
+Mount Abu       ,45000, Family           ,4, State , Winter , Road              , Cultural         ,2
+Cherrapunjee   ,45000, Friends          ,6, State , Monsoon, Road              , Adventure        ,4
+Mahabalipuram    ,50000,Friends      ,4, State   ,Any          , Train           ,Religious               ,3
+Andaman         ,35000, Family           ,5, State , Monsoon, Road              , Devotional       ,5
+Panhala          ,35000, Friends         ,3,State ,Any     , Road                , Cultural          ,2
+Leh             ,45000, Friends          ,6, State , Summer , Road              , Adventure        ,4
+Kasol            ,35000, Friends         ,3, State , Any   , Road                , Cultural        ,2
+Cherrapunjee    ,50000, Family           ,5, State , Winter , Air                , Devotional       ,3
+Rameshwaram       ,55000,Friends      ,3, State       ,Any        ,Road ,Relaxation            ,5
+Tiruchirapalli     ,50000,Friends      ,3, State             ,Any     , Train             ,Cultural               ,2
+Hyderabad       ,35000, Family           ,3, City  , Any    , Train             , Informational    ,5
+Matheran         ,45000, Friends      ,4, State    , Summer , Road              , Cultural          ,3
+Saputara         ,50000, Friends           ,4, State , Summer , Road               , Relaxation       ,2
+Mumbai          ,35000, Friends          ,4, State , Any    , Train             , Enjoy            ,3
+Puri             ,45000, Family         ,4, State , Any    , Road               , Relaxation       ,3
+Kodaikanal      ,45000, Friends          ,4, State , Any    , Road               , Enjoy            ,2
+Tiruchirapalli   ,35000, Family           ,3, State , Any    , Road              ,Cultural         ,3
+Saputara         ,55000,Family       ,4, State         ,Winter   ,Train               ,Religious         ,4
+Madurai          ,45000, Family          ,3, State, Any    , Road              ,  Adventure       ,2
+Thanjavur         ,40000, Friends       ,4, State    , Any   , Road              , Adventure      ,3
+Hyderabad       ,45000, Family           ,4, City  , Any    , Road               , Cultural         ,2
+Yercaud          ,40000, Family        ,4, State , Winter , Road             , Relaxation       ,3
+Pushkar          ,35000, Family        ,3, State    , Any , Road              , Cultural         ,4
+Tiruchirapalli   ,45000,Family       ,3, State            ,Any     ,Train,Relaxation             ,2
+Badami          ,30000, Friends          ,3, State , Any    , Road              , Enjoy            ,2
+Nagarhole       ,50000, Friends          ,5, State , Summer , Road              , Adventure        ,4
+Kanha NP         ,35000, Friends          ,4, State , Winter , Road              , Relaxation       ,3
+Mahabalipuram   ,55000, Family           ,4, State , Winter , Road               , Cultural         ,2
+Manali          ,45000, Friends          ,5, State , Monsoon, Road              , Adventure        ,3
+Vrindavan        ,35000, Friends        ,3, State , Monsoon , Train             , Devotional       ,4
+Satpura NP       ,50000, Friends         ,5, State        ,Any       ,Road          ,Relaxation          ,2
+Kovalam         ,50000, Family           ,4, State , Winter , Air                , Relaxation       ,4
+Udaipur         ,40000, Friends          ,4, State , Winter , Road              , Relaxation       ,2
+Ziro Valley      ,55000,Family       ,5, State   ,Any        , Road                ,Relaxation          ,4
+Darjeeling      ,45000, Friends          ,5, State , Winter , Train              , Adventure        ,4
+Kanchipuram        ,40000, Family        ,4, State   ,Any      , Train              ,Relaxation           ,3
+Munnar            ,40000, Friends          ,4, State , Monsoon, Train              , Cultural         ,3
+Wayanad         ,50000, Friends          ,5, State , Winter , Road               , Adventure        ,4
+Pondicherry     ,45000, Family           ,3, State , Any    , Road               , Relaxation       ,4
+Kodaikanal      ,35000, Friends          ,4, State , Any    , Road               , Enjoy            ,3
+Bikaner         ,40000, Friends          ,5, State , Monsoon, Road               , Adventure        ,4
+Jaisalmer       ,80000, Friends          ,6, State , Winter , Road              , Adventure        ,4
+Rameshwaram     ,45000, Family       ,4, State        , Any , Train          , Adventure       ,5
+Coonoor            ,40000, Family          ,3, State , Monsoon , Road                , Cultural       ,3
+Coorg           ,55000, Friends          ,5, State , Summer , Road               , Adventure        ,4
+Kedarnath       ,45000, Friends          ,5, State , Summer , Helicopter        , Devotional       ,3
+Rameshwaram       ,45000,Family       ,4, State     ,Any      ,Train          ,Relaxation          ,5
+Rameshwaram         ,55000,Family       ,4, State           ,Any      ,Train          ,Cultural               ,2
+Leh             ,55000, Friends          ,6, State , Summer , Road               , Adventure        ,4
+Kanchipuram         ,50000,Family       ,4, State      ,Any         ,Train,Religious         ,5
+Satpura NP       ,40000, Family           ,3, State , Any    , Road              , Enjoy            ,2
+Darjeeling      ,50000, Friends          ,5, State , Any    , Road               , Adventure        ,4
+Nagarhole       ,25000, Family           ,6, State , Monsoon, Train             , Informational    ,4
+Kodaikanal         ,50000,Family       ,4, State      ,Winter    ,Train               ,Cultural            ,5
+Kanyakumari        ,55000,Family       ,4, State   ,Winter     ,Train         ,Relaxation              ,3
+Kerala          ,80000, Friends          ,7, State , Winter , Road              , Adventure        ,3
+Tiruchirapalli   ,35000, Family          ,3, State , Any  , Road                , Cultural        ,2
+Gangtok         ,60000, Family           ,6, State , Monsoon, Road              , Adventure        ,5
+Bhimbetka        ,35000, Family          ,3, State , Any   , Road                , Cultural        ,3
+Yercaud          ,55000,Family       ,4, State   , Any , Road             , Adventure       ,2
+Haridwar        ,40000, Family           ,4, State , Any    , Road               , Adventure         ,2
+Mahabalipuram      ,40000,Friends      ,5, State    ,Winter, Road                ,Cultural             ,3
+Mahabalipuram      ,65000, Friends        ,5, State , Any   , Road                , Cultural        ,3
+Shillong        ,50000, Friends          ,6, State , Monsoon, Road             , Adventure        ,5
+Dwarka           ,45000, Family           ,4, City  , Winter , Road               , Cultural         ,2
+Kodaikanal       ,45000,Family       ,4, State   , Any ,  Road           , Relaxation       ,2
+Shirdi          ,45000, Family           ,3, State , Any    , Road               , Enjoy            ,2
+Kabini          ,70000, Family           ,6, State , Summer , Road              , Cultural         ,4
+Guwahati        ,35000, Family           ,4, State , Winter , Train             , Cultural         ,3
+Amritsar        ,55000, Family           ,4, State , Winter , Air               , Relaxation       ,2
+Bharatpur        ,35000, Friends       ,3, State   ,Any     ,Road             ,Cultural         ,3
+Wayanad         ,45000, Family           ,5, State , Monsoon, Road               , Adventure        ,3
+Madurai            ,40000,Family       ,3, State   , Any ,Road             , Cultural          ,4
+Shillong        ,55000, Friends          ,6, State , Monsoon, Road               , Adventure        ,5
+Aurangabad      ,50000, Family           ,6, State , Winter , Road               , Adventure        ,3
+Munnar            ,40000, Family           ,3, State , Any    , Road              , Cultural         ,4
+Mcleodganj      ,55000, Friends          ,5, State , Summer , Road               , Adventure        ,4
+Kasol            ,35000, Friends       ,3, State , Any   , Train              , Religious      ,4
+Mahabalipuram     ,50000, Family           ,6, State , Winter , Road               , Adventure        ,4
+Kovalam         ,45000, Family           ,4, State , Winter , Air                , Relaxation       ,4
+Panhala          ,35000, Friends        ,3, State  , Any    , Helicopter        ,  Cultural         ,3
+Mcleodganj      ,45000, Friends          ,5, State , Monsoon, Road              , Adventure        ,4
+Tiruchirapalli   ,35000, Family           ,3, State , Any    , Train             , Devotional       ,4
+Rann of Kutch   ,40000, Family           ,3, State , Any    , Road               , Relaxation       ,3
+Hogenakkal       ,35000, Family        ,4, State , Summer, Train           ,Religious           ,5
+Mahabalipuram     ,50000,Family       ,5, State    , Any , Road              , Adventure       ,4
+Guwahati        ,35000, Family           ,4, State , Winter , Train              , Cultural         ,3
+Kovalam         ,45000, Friends          ,4, State , Winter , Train             , Relaxation       ,4
+Matheran         ,50000, Family           ,6, State , Any    , Road               , Adventure        ,5
+Saputara         ,50000,Friends      ,4, State     ,Any         ,Train           ,Cultural                ,3
+Kodaikanal        ,55000,Friends      ,4, State          ,Any          ,Train,Cultural            ,5
+Gwalior          ,40000, Friends          ,5, State , Monsoon, Air                , Adventure        ,5
+Kedarnath       ,40000, Friends          ,5, State , Summer ,Road              , Devotional       ,3
+Rameshwaram     ,35000, Friends         ,3, State,Any          , Road             , Cultural       ,3
+Goa             ,40000, Family           ,5, State , Any    , Road              , Devotional       ,3
+Varanasi        ,35000, Family           ,3, State , Any    , Road              , Enjoy            ,2
+Badami          ,25000, Friends          ,3, State , Any    , Road              , Enjoy            ,5
+Leh             ,45000, Friends          ,6, State , Monsoon, Road             , Adventure        ,4
+Kanyakumari     ,45000, Family           ,4, State , Winter , Air                , Relaxation       ,5
+Kovalam         ,55000, Friends          ,4, State , Winter , Train           , Relaxation       ,4
+Mahabaleshwar   ,40000, Family           ,4, State , Winter , Road              , Adventure        ,2
+Kashmir         ,40000, Friends          ,6, State , Any    , Road              , Adventure        ,4
+Udaipur         ,40000, Family           ,4, State , Winter , Road              , Enjoy            ,3
+Kanyakumari     ,40000, Friends          ,4, State , Winter , Air                , Relaxation       ,4
+Mcleodganj      ,55000, Friends          ,5, State , Any    , Road               , Adventure        ,4
+Haridwar        ,20000, Family           ,3, State , Any    , Road              , Relaxation       ,4
+Kovalam         ,45000, Family           ,4, State , Monsoon, Air               , Relaxation       ,3
+Kanchipuram        ,45000, Friends        ,4, State    , Winter , Train             , Relaxation       ,4
+Pondicherry     ,35000, Family           ,3, City  , Any    , Road               , Devotional       ,4
+Panhala          ,35000, Friends         ,3, State, Any   , Train           ,Relaxation            ,4
+Pench NP         ,55000, Friends        ,4, State , Monsoon, Road             , Relaxation      ,3
+Haridwar        ,30000, Family           ,3, State , Any    , Road              , Devotional       ,5
+Guwahati        ,45000, Family           ,4, State , Winter , Air                , Relaxation       ,3
+Gwalior          ,35000, Family          ,3, State , Any   ,Train            , Adventure      ,2
+Shillong        ,50000, Family           ,6, State , Monsoon, Air               , Adventure        ,5
+Kashmir         ,150000, Friends          ,5, State , Summer , Road               , Adventure        ,4
+Shirdi          ,35000, Family           ,3, State , Any    , Road              , Enjoy            ,5
+Jog Falls        ,40000, Family           ,4, State , Summer , Road              , Cultural         ,2
