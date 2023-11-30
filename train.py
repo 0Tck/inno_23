@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score
 import joblib
 from sklearn.model_selection import GridSearchCV
 
-df = pd.read_csv('dataset.csv')
+df = pd.read_csv('ml/dataset.csv')
 label_encoder = LabelEncoder()
 label_encoder.fit(df['Destination'])
 joblib.dump(label_encoder, 'label_encoder1.joblib')
