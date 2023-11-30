@@ -1,4 +1,4 @@
-Destination    , Budget ,Company, No. of Days , Range , Season , Mode of Transport , Type of Vacation , No. of Members
+Destination,Budget,Company,No. of Days,Range,Season,Mode of Transport,Type of Vacation,No. of Members
 Goa             ,40000, Family           ,5, State , Winter , Air               , Enjoy            ,4
 Goa             ,40000, Friends          ,5, State , Winter , Air               , Enjoy            ,4
 Ladakh          ,80000, Friends          ,7, State , Summer , Road              , Adventure        ,3
