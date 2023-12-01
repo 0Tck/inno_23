@@ -113,8 +113,6 @@ def suggest():
 @app.route('/onvisit', methods=['GET','POST'])
 def onvisit():
     place = request.args.get('place_search', '')
-    if place=='':
-        return render_template('home.html', null='Fill in all the details before submitting.')
     return render_template('onvisit.html',place=place)
 
 @app.route('/search', methods=['GET', 'POST'])
