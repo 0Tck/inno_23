@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Styled Registration Form</title>
+
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+      }
+
+      #registrationForm {
+        background-color: #fff;
+        border: 1px solid #ddd;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 300px;
+      }
+
+      label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: bold;
+      }
+
+      input {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 16px;
+        box-sizing: border-box;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+
+      button {
+        background-color: #4caf50;
+        color: #fff;
+        padding: 10px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+
+      button:hover {
+        background-color: #45a049;
+      }
+    </style>
+  </head>
+  <body>
+    <form id="registrationForm" onsubmit="submitForm(event)">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="username" required />
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="userEmail" required />
+
+      <label for="newPassword">New Password:</label>
+      <input type="password" id="newPassword" name="password" required />
+
+      <label for="confirmPassword">Confirm Password:</label>
+      <input
+        type="password"
+        id="confirmPassword"
+        name="confirmPassword"
+        required
+      />
+
+      <button type="submit">Sign Up</button>
+    </form>
+
+    <script>
+      function submitForm(event) {
+        event.preventDefault(); // Prevents the default form submission
+
+        // Collect form data
+        const formData = new FormData(
+          document.getElementById("registrationForm")
+        );
+
+        // Convert form data to JSON
+        const jsonData = {};
+        formData.forEach((value, key) => {
+          jsonData[key] = value;
+        });
+
+        // Rename confirmPassword to password
+        jsonData["password"] = jsonData["confirmPassword"];
+        delete jsonData["confirmPassword"];
+
+        // Specify the URL directly
+        const apiUrl = "http://localhost:3002/user/create";
+
+        // Send data as JSON in the body of a POST request
+        fetch(apiUrl, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(jsonData),
+        })
+          .then((response) => response.json())
+          .then((data) => {
+            console.log("Success:", data.data);
+            if (Array.isArray(data.data) && data.data.length === 0) {
+              // Handle the case where data.data is an empty array
+              console.log("Data is an empty array");
+            } else {
+              window.location.href = "login";
+            }
+            
+          })
+          .catch((error) => {
+            console.error("Error:", error);
+            // Handle errors, e.g., show an error message to the user
+          });
+      }
+    </script>
+  </body>
+</html>

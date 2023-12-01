@@ -1,8 +1,8 @@
 *{
     margin:0;
     padding:0;
-    box-sizing: border-box;
 }
+
 body{
     font-family: 'Source Code Pro', monospace;
 }
@@ -10,6 +10,7 @@ body{
 .bg{
     background: #077cb3;
 }
+
 .main-navbar-light{
     background:transparent!important;
     position: absolute;
@@ -17,7 +18,10 @@ body{
     right:0;
     z-index:3;
     top:10px;
+    padding-left: 0; /* Add this line to remove left padding */
+    padding-right: 0
 }
+
 /*====End of Navabr==*/
 /*====Hero Section===*/
 .hero-wrap{
