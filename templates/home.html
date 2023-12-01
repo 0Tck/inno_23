@@ -17,13 +17,15 @@
 <script>function loadGoogleTranslate(){new google.translate.TranslateElement("myid")}</script>
 <!---Navbar-->  
     <nav class="navbar navbar-expand-lg navbar-light main-navbar bg m-navbar-light" id="main-navbar">
-        <div class="container">
-            <a class="navbar-brand" href="#">Tourismo</a>
+        <div class="container" style="padding-left: 0; padding-right: 0">
+            <div class="navbar-left">
                 <form class="form-inline my-2 my-lg-0" action="{{ url_for('onvisit') }}">
                     <input class="form-control mr-sm-2" type="search" name="place_search" placeholder="Search" aria-label="Search">
                     <button class="btn btn-outline-dark my-2 my-sm-0" type="submit">Search</button>
                     <a href="#predict_nav"><button class="btn btn-outline-dark my-2 my-sm-0 ml-2" type="button">Predict</button></a>
                 </form>
+            </div>
+
             <button class="navbar-toggler"type="button"data-toggle="collapse"
               data-target="#my-nav" aria-controls="p-nav"aria-expanded="false"
               aria-label="toggle-navigation">
@@ -42,9 +44,6 @@
                     </li>
                     <li class="nav-item">
                         <a href="#services"class="nav-link">Services</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#historical_nav"class="nav-link">Historical Places</a>
                     </li>
                     <li class="nav-item">
                         <a href="#blog_nav"class="nav-link">Blog</a>
@@ -72,6 +71,7 @@
         <div class="row no-gutters main-text align-items-center">
             <div class="col-lg-7 col-md-6 d-flex align-items-end">
                 <div class="text">
+                    <h1>Tourismo</h1>
                     <h1 class="mb-4 text-capitalize">find a perfect deal<br>
                         for your next trip
                       </h1>
