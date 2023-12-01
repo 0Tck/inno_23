@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TravelMate</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/cost.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+</head>
+
+<body>
+
+    <div class="appnavbar">
+        <div class="scrollmenu">
+           <a href="#" id="sos">sos</a>
+            <a href="cost.html" class="active">JOURNEY COST</a>
+            <a href="map.html">TRAFFIC</a>
+            <a href="fuel.html">FUEL STATIONS</a>
+            <a href="weather.html">WEATHER</a>
+            <a href="places.html">REST PLACES</a>
+        </div>
+    </div>
+    <div class="container1212">
+        <h2>Journey Estimated Cost</h2>
+        <div class="showingjourneycost">
+            <div class="firstbox animate__animated animate__fadeInDown">
+                <h3>Total Cost : &#8377; <span id="totalCost"></span></h3>
+                <h3>Cost per head : &#8377; <span id="splitCost"></span></h3>
+            </div>
+            <div class="multibox">
+                <h3 class="nichekro">Cost Details:</h3>
+                <div class="forflexibility">
+                    <div class="smallmultibox animate__animated animate__fadeInLeft animate__delay-1s">
+                        <h3>Transport</h3>
+                        <p class="multiboxcosthere">&#8377; <span id="transportCost"></span></p>
+                    </div>
+                    <div class="smallmultibox animate__animated animate__fadeInRight animate__delay-2s">
+                        <h3>Hotel</h3>
+                        <p class="multiboxcosthere">&#8377; <span id="hotelCost"></span></p>
+                    </div>
+                    <div class="smallmultibox animate__animated animate__fadeInLeft animate__delay-2s">
+                        <h3>Food</h3>
+                        <p class="multiboxcosthere">&#8377; <span id="foodCost"></span></p>
+                    </div>
+                    <div class="smallmultibox animate__animated animate__fadeInRight animate__delay-1s">
+                        <h3>Other</h3>
+                        <p class="multiboxcosthere">&#8377; <span id="otherCost"></span></p>
+                    </div>
+                </div>
+            </div>
+            <div class="showingchart">
+                <canvas id="myChart" width="300" height="400"></canvas>
+            </div>
+        </div>
+        <div class="promotingtripy">
+            <h2>Split your trip bill with</h2>
+            <a href="https://udaychugh.github.io/tripy/" target="_blank"><img src="https://udaychugh.github.io/tripy/images/tripy.png" alt="tripy image"></a>
+        </div>
+    </div>
+
+    <script src="script/script.js"></script>
+    <script src="script/cost.js"></script>
+</body></html>

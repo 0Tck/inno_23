@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TravelMate</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/places.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+    <div class="appnavbar">
+        <div class="scrollmenu">
+           <a href="#" id="sos">sos</a>
+            <a href="places.html" class="active">REST PLACES</a>
+            <a href="map.html">TRAFFIC</a>
+            <a href="fuel.html">FUEL STATIONS</a>
+            <a href="weather.html">WEATHER</a>
+            <a href="cost.html">JOURNEY COST</a>
+        </div>
+    </div>
+    <div class="places">
+        <div class="flexyFragment">
+            <div id="restro">Restaurants</div>
+            <div id="hotel">Hotels</div>
+        </div>
+
+        <div class="restroclass" id="restoshow">
+
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <img src="images/experience.jpeg" alt="Experience" style="width:100%;">
+                    </div>
+
+                    <div class="item">
+                        <img src="images/restaurant.jpeg" alt="Restaurant" style="width:100%;">
+                    </div>
+
+                    <div class="item">
+                        <img src="images/cafes.jpeg" alt="Cafes" style="width:100%;">
+                    </div>
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+
+            <div class="hotel1234" id="hotelshowkaro">
+                <header>
+                    <h2>[[name]]</h2>
+                </header>
+
+                <section>
+                    <nav>
+                        <img class="restlist" src="[[photo]]">
+                    </nav>
+
+                    <article>
+                        <h1></h1>
+                        <p>Location - <span>[[location]]</span></p>
+                        <p></p>
+                        <p>Service options: <span>[[service]]</span></p>
+                        <p>Opening Hours - <span>[[opening]]</span></p>
+                        <p>Ratings - [[rating]]</p>
+                        <p><a href="[[menu]]">menu</a> </p>
+                    </article>
+                </section>
+
+                <footer>
+                    <p>Directions</p>
+                    <p>[[direction]]</p>
+                </footer>
+            </div>
+
+        </div>
+
+
+        <div class="hotelclass" id="hotelshow">
+
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <img src="images/hotelsmumbai.jpeg" alt="Los Angeles" style="width:100%;">
+                    </div>
+
+                    <div class="item">
+                        <img src="images/hotelsdelhi.jpeg" alt="Chicago" style="width:100%;">
+                    </div>
+
+                    <div class="item">
+                        <img src="images/hotelsbangalore.jpeg" alt="New york" style="width:100%;">
+                    </div>
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+
+            <div class="hotel2345" id="hotelshowkardobhyii">
+                <header class="hotel1">
+                    <h2 class="hotel1">[[name]]</h2>
+                </header>
+
+                <section class="hotel1">
+                    <nav class="hotel1">
+                        <img class="restlist" src="images/hotellist1.jpeg">
+                    </nav>
+
+                    <article class="hotel1">
+                        <h1 class="hotel1">[[name]]</h1>
+                        <b>
+                            <p class="hotel1">Price <span>[[price]]</span></p>
+                        </b>
+                        <p class="hotel1">Location <span>[[location]]</span></p>
+                        <p class="hotel1">Relaxed rooms & suites in a posh business hotel offering a restaurant, a spa & an outdoor pool.</p>
+                        <p class="hotel1">Additional - <span>[[additional]]</span></p>
+                        <p class="hotel1">Phone: <span>[[phone]]</span></p>
+                        <p class="hotel1">Website - <a class="hotel1" href="[[website]]">[[website]]</a> </p>
+                    </article>
+                </section>
+
+                <footer class="hotel1">
+                    <p class="hotel1">Directions</p>
+                    <p>[[direction]]</p>
+                </footer>
+            </div>
+        </div>
+
+
+
+    </div>
+
+    <script src="script/script.js"></script>
+    <script src="script/places.js"></script>
+    <script src="script/places2.js"></script>
+    <script src="script/jquery.miranda.js"></script>
+    <script src="script/jquery.miranda.min.js"></script>
+    <script src="dataset/commonJson.json"></script>
+    
+
+</body></html>

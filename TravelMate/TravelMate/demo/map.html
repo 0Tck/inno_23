@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TravelMate</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link rel='stylesheet' type='text/css' href='https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/6.13.0/maps/maps.css'>
+</head>
+
+<body>
+
+    <div class="appnavbar">
+        <div class="scrollmenu">
+            <a href="#" id="sos">sos</a>
+            <a href="map.html" class="active">TRAFFIC</a>
+            <a href="fuel.html">FUEL STATIONS</a>
+            <a href="weather.html">WEATHER</a>
+            <a href="cost.html">JOURNEY COST</a>
+            <a href="places.html">REST PLACES</a>
+        </div>
+    </div>
+    <div class="container1212">
+        <iframe id="showMap" style="width:100%;height:400px;"></iframe>
+        <div class="addingFlexToBox">
+            <p class="userlan" id="demo" style="margin-top: 20px;"></p>
+            <h2 class="userTraffic">Traffic high in : <br> <span id="userLocation"></span></h2>
+            <h2 class="travelDistance">Total Distance : <br> <span id="travelDistance"></span></h2>
+            <h2 class="travelDuration">Total Duration of Journey : <br> <span id="travelDuration"></span></h2>
+        </div>
+    </div>
+
+    <script src="script/script.js"></script>
+    <script src="script/map.js"></script>
+    <script src='https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/6.13.0/maps/maps-web.min.js'></script>
+</body></html>

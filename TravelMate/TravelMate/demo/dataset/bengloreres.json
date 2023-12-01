@@ -1,0 +1,59 @@
+var bangloreRestaurant = [
+
+    {
+        "name": "Onesta",
+        "location": "Koramangala",
+        "service": "dine in, takeaway",
+        "opening": "11am - 11pm",
+        "rating": "03-May",
+        "menu": "https:\/\/magicpin.in\/Bangalore\/Koramangala\/Restaurant\/Onesta\/store\/64cc\/menu\/",
+        "direction": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d248834.1631098377!2d77.48585125897051!3d12.969689095001364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae151a0fb0474b%3A0xd594a16b909846c5!2sOnesta!5e0!3m2!1sen!2sin!4v1671819667822!5m2!1sen!2sin\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "photo": "https:\/\/media-cdn.tripadvisor.com\/media\/photo-s\/17\/a4\/f3\/65\/img-20190427-184959-largejpg.jpg",
+        "price": 600
+ },
+    {
+        "name": "Truffles",
+        "location": "Koramangala",
+        "service": "dine in, takeaway",
+        "opening": "1pm - 10pm",
+        "rating": "03-May",
+        "menu": "https:\/\/magicpin.in\/Bangalore\/Koramangala\/Restaurant\/Truffles\/store\/6368\/menu\/",
+        "direction": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d62205.738902306504!2d77.57180310617463!3d12.980889207459526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1451d90b3e77%3A0x6297032c180f2bbd!2sTruffles%20-%20Koramangala!5e0!3m2!1sen!2sin!4v1671819549426!5m2!1sen!2sin\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "photo": "https:\/\/image3.mouthshut.com\/images\/imagesp\/925684939s.png",
+        "price": 800
+ },
+    {
+        "name": "The fatty bao",
+        "location": "indiranagar",
+        "service": "dine in, takeaway",
+        "opening": "11am - 11pm",
+        "rating": "04-May",
+        "menu": "https:\/\/magicpin.in\/Bangalore\/Indiranagar\/Restaurant\/The-Fatty-Bao---Asian-Gastro-Bar\/store\/6070\/menu\/",
+        "direction": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3888.021285528835!2d77.64318801466717!3d12.970489718412356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae16a9d8462d9f%3A0x380971d8bf0df28f!2sThe%20Fatty%20Bao!5e0!3m2!1sen!2sin!4v1671819422777!5m2!1sen!2sin\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "photo": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/resized\/750X436\/restaurant%2F656352%2Frestaurant020180809042531.jpeg",
+        "price": 1200
+ },
+    {
+        "name": "Hoot brewery and cafe",
+        "location": "sarjapur",
+        "service": "dine in, takeaway",
+        "opening": "1pm - 11pm",
+        "rating": "04-May",
+        "menu": "https:\/\/magicpin.in\/Bangalore\/Sarjapur-Road\/Restaurant\/Hoot-Brewery-and-Cafe\/store\/586a5\/menu\/",
+        "direction": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3888.900746322582!2d77.67642021482139!3d12.914100390893596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae133c7fffe3a7%3A0x9584a3ce86e2bdc!2sHoot%20Cafe%20%26%20Brewery!5e0!3m2!1sen!2sin!4v1671819205597!5m2!1sen!2sin\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "photo": "https:\/\/b.zmtcdn.com\/data\/pictures\/8\/18422898\/f06a50318f44b966980f380ceb43aaf0.jpg",
+        "price": 2000
+ },
+    {
+        "name": "Shiro",
+        "location": "UB city mall",
+        "service": "dine in, takeaway",
+        "opening": "12pm - 11pm",
+        "rating": "05-May",
+        "menu": "https:\/\/magicpin.in\/Bangalore\/Ub-City-Mall\/Restaurant\/Shiro\/store\/6601\/menu\/",
+        "direction": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3888.0062981697006!2d77.59399201482198!3d12.971448590856001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1679e3c9def3%3A0xb7eba084e2ebbcc0!2sShiro!5e0!3m2!1sen!2sin!4v1671819016733!5m2!1sen!2sin\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "photo": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/resized\/750X436\/restaurant%2F330141%2F3973_330141_05.jpg",
+        "price": 3000
+ }
+]
+  

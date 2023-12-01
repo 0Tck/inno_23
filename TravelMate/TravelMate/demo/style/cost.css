@@ -1,0 +1,104 @@
+.showingjourneycost{
+    margin-top: 20px;
+}
+
+.firstbox{
+    background: #DB8DB9;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.firstbox h3:last-child{
+    margin-top: 15px;
+}
+
+.multibox{
+    margin-top: 20px;
+}
+
+.multibox .nichekro{
+    margin-bottom: 15px;
+}
+
+.forflexibility{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+
+.smallmultibox{
+    padding: 25px;
+    width: 30%;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    color: #66045E;
+}
+
+.multiboxcosthere{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.smallmultibox:nth-child(1){
+    background-color: #fff7f1;
+    background-image: url(../images/transport.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position: top;
+}
+
+.smallmultibox:nth-child(2){
+    background-color: #daeffc;
+    background-image: url(../images/hotel.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position: top;
+}
+
+.smallmultibox:nth-child(3){
+    background-color: #d4efdf;
+    background-image: url(../images/food.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position: top;
+}
+
+.smallmultibox:nth-child(4){
+    background-color: #ffe4e4;
+    background-image: url(../images/other.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position: top;
+}
+
+.smallmultibox h3{
+    margin-bottom: 10px;
+}
+
+.promotingtripy{
+    background-color: #333;
+    padding: 10px;
+    border-radius: 10px;
+    color: #f3f3f3;    
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.showingchart{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.promotingtripy img{
+    width: 50vw;
+}

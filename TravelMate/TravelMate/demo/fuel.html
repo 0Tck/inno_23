@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TravelMate</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/fuel.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+</head>
+
+<body>
+
+    <div class="appnavbar">
+        <div class="scrollmenu">
+           <a href="#" id="sos">sos</a>
+            <a href="fuel.html" class="active">FUEL STATIONS</a>
+            <a href="map.html">TRAFFIC</a>
+            <a href="weather.html">WEATHER</a>
+            <a href="cost.html">JOURNEY COST</a>
+            <a href="places.html">REST PLACES</a>
+        </div>
+    </div>
+    <div class="container1212">
+        <div id="Fuel" class="tabcontent" style="text-transform: capitalize;">
+            <h3 class="responsive1">Fuel Consumption</h3>
+            <p class="responsive41 animate__animated animate__fadeInDown"><span id="showfuelcomsuption"></span> MPG</p>
+            <h3 class="responsive1">Nearby Fuel Stations</h3>
+            <p class="responsive41 animate__animated animate__fadeInUp"><span id="station"></span> <br> Fuel Stations found</p>
+            <h3 class="responsive1">Fuel Prices</h3>
+            <div class="fuelBox animate__animated animate__zoomIn animate__delay-1s">
+                <p class="responsive4"><span id="city1"></span></p>
+                <p class="responsive4"><span id="price1"></span></p>
+            </div>
+            <div class="fuelBox animate__animated animate__zoomIn animate__delay-2s">
+                <p class="responsive4"><span id="city2"></span></p>
+                <p class="responsive4"><span id="price2"></span></p>
+            </div>
+            <h3 class="responsive1">Fuel Difference</h3>
+            <div class="fuelBox animate__animated animate__zoomIn animate__delay-3s">
+                <p class="responsive4">Approx</p>
+                <p class="responsive4"><span id="fueldiff"></span></p>
+            </div>
+            
+        </div>
+    </div>
+
+    <script src="script/script.js"></script>
+    <script src="script/fuel.js"></script>
+</body></html>

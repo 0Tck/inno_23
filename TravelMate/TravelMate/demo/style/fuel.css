@@ -1,0 +1,57 @@
+.responsive1 {
+    margin: 10px;
+    color: #66045E;
+    font-size: 28px;
+}
+
+.responsive41 {
+    background: #DB8DB9;
+    padding: 25px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+#station{
+    font-size: 28px;
+}
+
+.fuelBox{
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.fuelBox:nth-child(1){
+    background-color: #fff7f1;
+    background-image: url(../images/transport.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position: top;
+}
+
+.fuelBox:nth-child(2){
+    background-color: #daeffc;
+    background-image: url(../images/hotel.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position: top;    
+}
+
+.fuelBox:nth-child(3){
+    background-color: #ffe4e4;
+    background-image: url(../images/other.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position: top;
+}
+
+
