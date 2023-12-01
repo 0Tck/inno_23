@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, redirect, url_for
 #from ml import predict
 import pandas as pd
 import joblib
@@ -109,6 +109,15 @@ def suggest():
 
         return render_template('home.html', result='You can go to '+res)
     return render_template('home.html')
+
+@app.route('/onvisit', methods=['GET','POST'])
+def onvisit():
+    place = request.args.get('place_search', '')
+    return render_template('onvisit.html',place=place)
+
+@app.route('/search', methods=['GET', 'POST'])
+def search():
+    return redirect(url_for('onvisit'))
 
 
 
