@@ -1,0 +1,526 @@
+Destination,Budget,Type of Vacation,No. of Days,Range,Season,Mode of Transport,No. of Members,Company
+Shimla,25000,Hill Station,4,Domestic,Spring,Train,3
+Agra,30000,Heritage,3,Domestic,Winter,Train,2  
+Andaman,50000,Beach,5,International,Winter,Flight,4
+Kerala,35000,Ayurvedic,7,Domestic,Monsoon,Flight,2
+Coorg,25000,Hill Station,3,Domestic,Monsoon,Flight,4 
+Jaipur,40000,Heritage,5,Domestic,Winter,Train,3
+Leh,45000,Adventure,7,Domestic,Summer,Flight,4  
+Goa,30000,Beach,5,Domestic,Winter,Flight,3 
+Sikkim,35000,Hill Station,6,Domestic,Spring,Flight,3   
+Rishikesh,25000,Adventure,4,Domestic,Summer,Train,5  
+Jim Corbett,30000,Safari,3,Domestic,Winter,Train,4  
+Kumarakom,40000,Ayurvedic,6,Domestic,Monsoon,Flight,2   
+Jodhpur,35000,Heritage,4,Domestic,Winter,Train,3
+Udaipur,40000,Heritage,5,Domestic,Winter,Train,3  
+Manali,28000,Adventure,5,Domestic,Summer,Train,4   
+Munnar,30000,HillStation,4,Domestic,Monsoon,Flight,3
+Darjeeling,32000,HillStation,5,Domestic,Spring,Train,4    
+Ooty,28000,Hill Station,4,Domestic,Monsoon,Train,3
+Madurai,25000,Spiritual,3,Domestic,Winter,Flight,3   
+Tawang,40000,Hill Station,6,Domestic,Summer,Flight,4
+Kaziranga,35000,Safari,4,Domestic,Spring,Flight,4  
+Amritsar,23000,Spiritual,3,Domestic,Winter,Train,3   
+Khajuraho,30000,Heritage,4,Domestic,Monsoon,Flight,3
+Orchha,22000,Heritage,3,Domestic,Winter,Train,3  
+Alappuzha,35000,Backwaters,5,Domestic,Monsoon,Flight,3   
+McLeodganj,26000,Spiritual,5,Domestic,Summer,Train,4   
+Ranthambore,32000,Safari,4,Domestic,Winter,Train,4   
+Varanasi,28000,Spiritual,4,Domestic,Winter,Train,3    
+Hampi,25000,Heritage,4,Domestic,Winter,Flight,3    
+Mumbai,45000,Metro,4,Domestic,Winter,Flight,5    
+Kovalam,30000,Beach,4,Domestic,Monsoon,Flight,3     
+Mahabalipuram,28000,Heritage,4,Domestic,Winter,Train,3      
+Pondicherry,33000,Heritage,5,Domestic,Spring,Train,3   
+Port Blair,50000,Island,6,Domestic,Winter,Flight,4      
+Spiti,40000,Adventure,7,Domestic,Summer,Train,5   
+Ladakh,50000,Adventure,8,Domestic,Summer,Flight,5      
+Dalhousie,30000,Hill Station,5,Domestic,Summer,Train,4      
+Nainital,28000,Hill Station,4,Domestic,Spring,Train,3      
+Khajjiar,25000,Hill Station,3,Domestic,Spring,Train,3       
+Gangtok,35000,Hill Station,5,Domestic,Spring,Flight,3      
+Kodaikanal,27000,Hill Station,4,Domestic,Summer,Train,3 
+Cherrapunji,30000,Hill Station,4,Domestic,Monsoon,Flight,3 
+Tirthan Valley,25000,Trekking,4,Domestic,Summer,Train,5   
+Chopta,28000,Trekking,5,Domestic,Summer,Train,4   
+Kedarnath,30000,Pilgrimage,5,Domestic,Summer,Flight,4   
+Badrinath,35000,Pilgrimage,6,Domestic,Summer,Flight,5    
+Haridwar,22000,Pilgrimage,4,Domestic,Summer,Train,3   
+Rishikesh,20000,Pilgrimage,3,Domestic,Summer,Train,3    
+Vaishno Devi,25000,Pilgrimage,3,Domestic,Winter,Train,4    
+Tirupati,22000,Pilgrimage,3,Domestic,Summer,Flight,4   
+Dwarka,28000,Pilgrimage,4,Domestic,Winter,Flight,3    
+Ajmer,21000,Pilgrimage,2,Domestic,Winter,Train,3   
+Mathura Vrindavan,20000,Pilgrimage,3,Domestic,Winter,Train,3   
+Gokarna,23000,Beach,4,Domestic,Summer,Train,3   
+Puri,22000,Beach,4,Domestic,Winter,Train,3   
+Gopalpur,20000,Beach,3,Domestic,Spring,Train,3  
+Kovalam,30000,Ayurvedic,5,Domestic,Monsoon,Flight,3    
+Alleppey,32000,Backwaters,4,Domestic,Monsoon,Flight,3   
+Kumarakom,35000,Ayurvedic,6,Domestic,Monsoon,Flight,2   
+Cochin,28000,Backwaters,4,Domestic,Monsoon,Flight,3    
+Auli,40000,Skiing,5,Domestic,Winter,Train,4  
+Gulmarg,50000,Skiing,5,Domestic,Winter,Flight,4   
+Pahalgam,30000,Nature,4,Domestic,Summer,Train,3  
+Yumthang Valley,35000,Nature,5,Domestic,Spring,Flight,3    
+Ziro Valley,30000,Tribal,5,Domestic,Summer,Flight,3    
+Majuli Island,25000,Tribal,4,Domestic,Monsoon,Flight,3   
+Hampi Festival,25000,Festival,4,Domestic,Winter,Train,3    
+Hemis Festival,40000,Festival,5,Domestic,Summer,Flight,3    
+Hornbill Festival,35000,Festival,6,Domestic,Winter,Flight,3   
+Onam Festival,25000,Festival,4,Domestic,Monsoon,Flight,4    
+Rann Utsav,30000,Festival,5,Domestic,Winter,Train,3   
+Puri Rath Yatra,20000,Festival,3,Domestic,Summer,Train,3    
+Goa Carnival,35000,Festival,5,Domestic,Winter,Flight,4     
+Ganga Aarti,20000,Spiritual,3,Domestic,Summer,Train,3    
+Mahakaleshwar Temple,22000,Spiritual,3,Domestic,Monsoon,Train,3  
+Kamakhya Temple,25000,Spiritual,3,Domestic,Monsoon,Flight,3   
+Meenakshi Temple,24000,Spiritual,3,Domestic,Summer,Train,3    
+Golden Temple,20000,Spiritual,2,Domestic,Winter,Train,3    
+Konark Sun Temple,22000,Spiritual,2,Domestic,Winter,Train,3    
+Khajuraho Temples,27000,Spiritual,3,Domestic,Monsoon,Flight,3   
+Ajanta Ellora Caves,30000,Heritage,4,Domestic,Monsoon,Flight,3    
+Hampi,28000,Heritage,4,Domestic,Winter,Train,4    
+Fatehpur Sikri,25000,Heritage,3,Domestic,Summer,Train,3    
+Mysore Palace,26000,Heritage,3,Domestic,Summer,Train,3   
+Mahabodhi Temple,25000,Spiritual,4,Domestic,Winter,Flight,3   
+Basgo Monastery,30000,Spiritual,4,Domestic,Summer,Flight,3    
+Tabo Monastery,35000,Spiritual,5,Domestic,Summer,Flight,3   
+Alchi Monastery,40000,Spiritual,6,Domestic,Summer,Flight,4    
+Tawang Monastery,38000,Spiritual,5,Domestic,Summer,Flight,3   
+Hemkund Sahib,30000,Pilgrimage,5,Domestic,Summer,Flight,4   
+Velankanni Church,25000,Pilgrimage,3,Domestic,Winter,Train,3   
+Golden Temple Amritsar,20000,Pilgrimage,2,Domestic,Winter,Train,3  
+Jagannath Puri Temple,22000,Pilgrimage,3,Domestic,Summer,Train,3   
+Tirumala Tirupati,23000,Pilgrimage,3,Domestic,Summer,Flight,4   
+Mahakaleshwar Temple,24000,Pilgrimage,3,Domestic,Monsoon,Train,3    
+Vaishno Devi Temple,25000,Pilgrimage,3,Domestic,Winter,Train,4   
+Somnath Jyotirlinga,27000,Pilgrimage,3,Domestic,Winter,Flight,3   
+Kedarnath Temple,30000,Pilgrimage,5,Domestic,Summer,Flight,4   
+Bodhgaya,22000,Pilgrimage,3,Domestic,Winter,Flight,3   
+Har Ki Pauri,20000,Pilgrimage,3,Domestic,Summer,Train,3   
+Brahma Temple Pushkar,22000,Pilgrimage,3,Domestic,Winter,Train,3  
+Yamunotri Temple,25000,Pilgrimage,4,Domestic,Summer,Train,4    
+Kempty Falls,22000,Nature,3,Domestic,Summer,Train,3   
+Valley of Flowers,30000,Trekking,5,Domestic,Summer,Train,4    
+Chadar Trek,45000,Trekking,7,Domestic,Winter,Flight,5    
+Rupin Pass Trek,35000,Trekking,6,Domestic,Summer,Flight,4    
+Kheerganga Trek,22000,Trekking,4,Domestic,Spring,Train,3   
+Triund Trek,18000,Trekking,3,Domestic,Summer,Train,3   
+Chopta Tungnath Trek,20000,Trekking,4,Domestic,Summer,Train,3    
+Hampta Pass Trek,23000,Trekking,5,Domestic,Summer,Train,3   
+Brahmatal Trek,22000,Trekking,4,Domestic,Winter,Train,3   
+Sandakphu Trek,25000,Trekking,5,Domestic,Spring,Train,4    
+Gomukh Trek,28000,Trekking,6,Domestic,Summer,Train,4    
+Everest Base Camp,50000,Trekking,10,International,Spring,Flight,5    
+Annapurna Base Camp,45000,Trekking,8,International,Spring,Flight,4   
+Stok Kangri Trek,40000,Trekking,7,Domestic,Summer,Flight,5   
+Markha Valley,38000,Trekking,8,Domestic,Summer,Flight,4    
+Rajmachi Fort Trek,15000,Trekking,2,Domestic,Monsoon,Train,3   
+Lohagad Fort Trek,12000,Trekking,2,Domestic,Monsoon,Train,3    
+Korigad Fort Trek,13000,Trekking,2,Domestic,Monsoon,Train,3   
+Tikona Fort Trek,14000,Trekking,2,Domestic,Monsoon,Train,3  
+Visapur Fort Trek,16000,Trekking,2,Domestic,Monsoon,Train,3   
+Prabalgad Fort Trek,17000,Trekking,2,Domestic,Monsoon,Train,3  
+Kalavantin Durg Trek,15000,Trekking,2,Domestic,Monsoon,Train,3    
+Lohagad Bhaje Caves,14000,Trekking,2,Domestic,Monsoon,Train,3   
+Karnala Fort Trek,16000,Trekking,2,Domestic,Monsoon,Train,3  
+Rajgad Fort Trek,18000,Trekking,3,Domestic,Monsoon,Train,4   
+Andaman,50000,Water Sports,6,Domestic,Winter,Flight,4    
+Goa,40000,Water Sports,5,Domestic,Winter,Flight,4    
+Rishikesh,25000,Water Sports,4,Domestic,Summer,Train,5   
+Ladakh,45000,Bike Trip,7,Domestic,Summer,Flight,4    
+Spiti,40000,Bike Trip,8,Domestic,Summer,Flight,4   
+Meghalaya,35000,Bike Trip,6,Domestic,Monsoon,Flight,3   
+Rajasthan,35000,Camel Safari,6,Domestic,Winter,Train,5   
+Kerala,40000,Boat House,5,Domestic,Monsoon,Flight,3    
+Ladakh,50000,Jeep Safari,7,Domestic,Summer,Flight,4   
+Rann of Kutch,35000,Jeep Safari,5,Domestic,Winter,Train,3    
+Jaisalmer,30000,Desert Camp,4,Domestic,Winter,Train,4   
+Rishikesh,30000,River Rafting,4,Domestic,Summer,Train,5   
+Udaipur,30000,Hot Air Balloon,3,Domestic,Winter,Train,3    
+Jaipur,35000,Hot Air Balloon,3,Domestic,Winter,Train,3   
+Gulmarg,45000,Snow Boarding,5,Domestic,Winter,Flight,4  
+Bir Billing,19000,Paragliding,3,Domestic,Spring,Train,3    
+Goa,35000,Dolphin Trip,2,Domestic,Winter,Flight,3   
+Caravela,40000,Casino Cruise,4,Domestic,Winter,Flight,3   
+Dzukou Valley,35000,Trekking,5,Domestic,Summer,Train,4   
+Zuluk,30000,Trekking,4,Domestic,Summer,Train,4    
+Pelling,25000,Trekking,3,Domestic,Summer,Train,3   
+Uttarakhand,25000,Trekking,4,Domestic,Winter,Train,3    
+Cape Comorin,28000,Nature,4,Domestic,Winter,Train,4   
+Dhanushkodi,25000,Spiritual,3,Domestic,Winter,Train,3   
+Nubra,45000,Adventure,6,Domestic,Summer,Train,4    
+Kutch,35000,Safari,5,Domestic,Winter,Train,4  
+Wayanad,25000,Nature,3,Domestic,Monsoon,Train,3   
+Bastar,30000,Tribal,4,Domestic,Monsoon,Train,4   
+Kohima,35000,Tribal,5,Domestic,Winter,Flight,3   
+Andro,25000,Tribal,3,Domestic,Spring,Flight,3    
+Amaravati,25000,Buddhist,4,Domestic,Winter,Flight,3 
+Nagarjunakonda,25000,Buddhist,4,Domestic,Winter,Train,3    
+Aurangabad,28000,Heritage,4,Domestic,Winter,Train,3 
+Gokarna,24000,Temple,2,Domestic,Monsoon,Train,3    
+Belur,18000,Temple,2,Domestic,Summer,Train,2    
+Jog Falls,25000,Nature,3,Domestic,Monsoon,Train,3  
+Dudhsagar Falls,25000,Trekking,3,Domestic,Monsoon,Train,3
+Athirappally Falls,25000,Nature,3,Domestic,Monsoon,Train,3    
+Patal Bhuvaneshwar,29000,Trekking,3,Domestic,Monsoon,Train,4    
+Solang Valley,30000,Nature,4,Domestic,Summer,Train,3    
+Pahalgam,35000,Nature,4,Domestic,Summer,Train,3 
+Sonamarg,30000,Nature,4,Domestic,Summer,Train,3 
+Lachung,35000,Hill Station,5,Domestic,Summer,Train,3 
+Lava,29000,Hill Station,4,Domestic,Summer,Train,3 
+Saputara,25000,Hill Station,3,Domestic,Monsoon,Train,3   
+Haflong,25000,Hill Station,3,Domestic,Spring,Train,3
+Tawang,38000,Hill Station,5,Domestic,Summer,Flight,4
+Coonoor,30000,Hill Station,5,Domestic,Monsoon,Train,3
+Matheran,22000,Hill Station,3,Domestic,Monsoon,Train,3
+Lansdowne,24000,HillStation,4,Domestic,Summer,Train,3
+Khandala,20000,Hill Station,3,Domestic,Monsoon,Train,3
+Munsiyari,32000,Hill Station,4,Domestic,Summer,Flight,3  
+Kufri,26000,Hill Station,3,Domestic,Winter,Train,3
+Chamba,30000,Hill Station,4,Domestic,Summer,Train,4
+Chaukori,28000,Hill Station,3,Domestic,Spring,Train,3 
+Kausani,25000,Hill Station,3,Domestic,Summer,Train,3  
+Bhimtal,24000,Nature,3,Domestic,Summer,Train,3  
+Bhedaghat,22000,Nature,2,Domestic,Monsoon,Train,3  
+Bundi,25000,Heritage,3,Domestic,Winter,Train,3
+Champaner,20000,Heritage,2,Domestic,Monsson,Train,3 
+Chittorgarh,24000,Heritage,3,Domestic,Winter,Train,3
+Dholavira,35000,Heritage,4,Domestic,Winter,Flight,3
+Jhalawar,30000,Heritage,4,Domestic,Spring,Train,4  
+Khajuraho,27000,Temple,3,Domestic,Monsoon,Flight,3
+Bodhgaya,22000,Temple,3,Domestic,Winter,Flight,3  
+Amritsar,23000,Temple,3,Domestic,Winter,Train,3
+Madurai,25000,Temple,3,Domestic,Summer,Train,3 
+ Thanjavur,28000,Temple,3,Domestic,Winter,Flight,3
+Ujjain,24000,Temple,3,Domestic,Winter,Train,3  
+Warangal,22000,Temple,2,Domestic,Summer,Train,3
+Puri,22000,Temple,3,Domestic,Winter,Train,3
+Gaya,20000,Temple,3,Domestic,Winter,Train,3   
+Omkareshwar,23000,Temple,3,Domestic,Winter,Train,3  
+dwarkadheesh Temple,28000,Temple,4,Domestic,Winter,Flight,3
+Rameshwaram,25000,Temple,3,Domestic,Winter,Train,3  
+Trimbakeshwar,26000,Temple,3,Domestic,Monsoon,Train,3
+Panhala,20000,Fort,2,Domestic,Monsoon,Train,3 
+Gwalior Fort,23000,Fort,2,Domestic,Winter,Train,3  
+Kumbhalgarh Fort,25000,Fort,3,Domestic,Spring,Train,3
+Raigad Fort,20000,Fort,2,Domestic,Monsoon,Train,4
+Ranthambore Fort,28000,Fort,3,Domestic,Winter,Train,4
+Golkonda Fort,24000,Fort,2,Domestic,Winter,Train,3
+Amer Fort,30000,Fort,3,Domestic,Winter,Train,3  
+Murud Janjira Fort,25000,Fort,3,Domestic,Monsoon,Train,4
+Mehrangarh Fort,32000,Fort,3,Domestic,Winter,Train,3
+Red Fort Agra,27500,Fort,2,Domestic,Winter,Train,3 
+Gangtok,35000,Valley,5,Domestic,Spring,Flight,3
+Auli,40000,Valley,5,Domestic,Summer,Train,4  
+Lonavala,24000,Valley,3,Domestic,Monsoon,Train,3
+Matheran Valley,22000,Valley,3,Domestic,Monsoon,Train,3  
+Araku Valley,30000,Valley,4,Domestic,Winter,Flight,4
+Dandeli Valley,35000,Valley,4,Domestic,Monsoon,Flight,4 
+Pachmarhi Valley,28000,Valley,3,Domestic,Summer,Flight,3  
+Yumthang Valley,35000,Valley,5,Domestic,Summer,Train,3
+Bhimtal Valley,24000,Valley,3,Domestic,Spring,Train,3  
+Kasauli Valley,25000,Valley,3,Domestic,Autumn,Train,3
+Khajjiar Valley,25000,Valley,3,Domestic,Spring,Train,3 
+Valparai Valley,30000,Valley,4,Domestic,Monsoon,Train,4  
+Chaukori Valley,28000,Valley,3,Domestic,Spring,Train,3 
+Panhala Fort,20000,Fort,2,Domestic,Monsoon,Train,3  
+Gwalior Fort,23000,Fort,2,Domestic,Winter,Train,3  
+Kumbhalgarh Fort,25000,Fort,3,Domestic,Spring,Train,3 
+Raigad Fort,20000,Fort,2,Domestic,Monsoon,Train,4  
+Ranthambore Fort,28000,Fort,3,Domestic,Winter,Train,4  
+Golkonda Fort,24000,Fort,2,Domestic,Winter,Train,3  
+Amer Fort,30000,Fort,3,Domestic,Winter,Train,3   
+Murud Janjira Fort,25000,Fort,3,Domestic,Monsoon,Train,4 
+Mehrangarh Fort,32000,Fort,3,Domestic,Winter,Train,3  
+Red Fort Agra,27500,Fort,2,Domestic,Winter,Train,3  
+Gangtok,35000,Valley,5,Domestic,Spring,Flight,3  
+Auli,40000,Valley,5,Domestic,Summer,Train,4   
+Lonavala,24000,Valley,3,Domestic,Monsoon,Train,3  
+Matheran Valley,22000,Valley,3,Domestic,Monsoon,Train,3  
+Araku Valley,30000,Valley,4,Domestic,Winter,Flight,4  
+Dandeli Valley,35000,Valley,4,Domestic,Monsoon,Flight,4  
+Pachmarhi Valley,28000,Valley,3,Domestic,Summer,Flight,3   
+Yumthang Valley,35000,Valley,5,Domestic,Summer,Train,3  
+Bhimtal Valley,24000,Valley,3,Domestic,Spring,Train,3   
+Kasauli Valley,25000,Valley,3,Domestic,Autumn,Train,3  
+Khajjiar Valley,25000,Valley,3,Domestic,Spring,Train,3
+Andro,25000,Tribal,3,Domestic,Spring,Flight,3
+Amaravati,25000,Buddhist,4,Domestic,Winter,Flight,3  
+Nagarjunakonda,25000,Buddhist,4,Domestic,Winter,Train,3 
+Aurangabad,28000,Heritage,4,Domestic,Winter,Train,3
+Gokarna,24000,Temple,2,Domestic,Monsoon,Train,3  
+Belur,18000,Temple,2,Domestic,Summer,Train,2 
+Jog Falls,25000,Nature,3,Domestic,Monsoon,Train,3
+Dudhsagar Falls,25000,Trekking,3,Domestic,Monsoon,Train,3  
+Athirappally Falls,25000,Nature,3,Domestic,Monsoon,Train,3 
+Patal Bhuvaneshwar,29000,Trekking,3,Domestic,Monsoon,Train,4  
+Solang Valley,30000,Nature,4,Domestic,Summer,Train,3  
+Pahalgam,35000,Nature,4,Domestic,Summer,Train,3
+Sonamarg,30000,Nature,4,Domestic,Summer,Train,3  
+Lachung,35000,Hill Station,5,Domestic,Summer,Train,3  
+Lava,29000,Hill Station,4,Domestic,Summer,Train,3
+Saputara,25000,Hill Station,3,Domestic,Monsoon,Train,3    
+Haflong,25000,Hill Station,3,Domestic,Spring,Train,3
+Tawang,38000,Hill Station,5,Domestic,Summer,Flight,4 
+Coonoor,30000,Hill Station,5,Domestic,Monsoon,Train,3  
+Matheran,22000,Hill Station,3,Domestic,Monsoon,Train,3
+Lansdowne,24000,HillStation,4,Domestic,Summer,Train,3  
+Khandala,20000,Hill Station,3,Domestic,Monsoon,Train,3
+Munsiyari,32000,Hill Station,4,Domestic,Summer,Flight,3   
+Kufri,26000,Hill Station,3,Domestic,Winter,Train,3
+Chamba,30000,Hill Station,4,Domestic,Summer,Train,4
+Chaukori,28000,Hill Station,3,Domestic,Spring,Train,3  
+Kausani,25000,Hill Station,3,Domestic,Summer,Train,3   
+Bhimtal,24000,Nature,3,Domestic,Summer,Train,3   
+Bhedaghat,22000,Nature,2,Domestic,Monsoon,Train,3   
+Bundi,25000,Heritage,3,Domestic,Winter,Train,3 
+Champaner,20000,Heritage,2,Domestic,Monsson,Train,3  
+Chittorgarh,24000,Heritage,3,Domestic,Winter,Train,3
+Dholavira,35000,Heritage,4,Domestic,Winter,Flight,3  
+Jhalawar,30000,Heritage,4,Domestic,Spring,Train,4   
+Halebid,22000,Heritage,2,Domestic,Summer,Train,3
+Bijapur,25000,Heritage,3,Domestic,Winter,Train,3
+Gwalior,23000,Heritage,2,Domestic,Winter,Train,3
+Hampi,28000,Heritage,4,Domestic,Winter,Train,4
+Bidar,24000,Heritage,3,Domestic,Monsoon,Train,3
+Badami,25000,Heritage,3,Domestic,Summer,Train,3
+Mahabaleshwar,30000,Hill Station,4,Domestic,Monsoon,Road,4  
+Munnar,40000,Hill Station,6,Domestic,Monsoon,Road,5  
+Kodaikanal,30000,Hill Station,5,Domestic,Summer,Road,3  
+Coimbatore,28000,Metro City,4,Domestic,Summer,Train,3  
+Kanyakumari,25000,Historical,3,Domestic,Winter,Train,3  
+Gangtok,35000,Hill Town,5,Domestic,Spring,Flight,3
+Shillong,30000,Hill Town,4,Domestic,Monsoon,Flight,3 
+Kohima,35000,Tribal Village,5,Domestic,Winter,Flight,3
+Bastar,30000,Tribal Village,4,Domestic,Monsoon,Train,4
+Port Blair,50000,Beach Town,6,Domestic,Winter,Flight,4
+Pondicherry,33000,French Town,5,Domestic,Spring,Train,3
+Ziro,30000,Tribal Village,5,Domestic,Summer,Flight,3  
+Shantiniketan,25000,Spiritual Town,3,Domestic,Spring,Train,3  
+Haridwar,22000,Spiritual Town,4,Domestic,Summer,Train,3 
+Ooty,28000,Hill Town,4,Domestic,Monsoon,Train,3
+Tiri,35000,Tribal Village,5,Domestic,Spring,Flight,4
+Cuttack,25000,Temple Town,3,Domestic,Monsoon,Train,3
+Bhimtal,24000,Hill Town,3,Domestic,Summer,Train,3
+Saputara,25000,Hill Town,3,Domestic,Monsoon,Train,3
+Shirdi,20000,Spiritual Town,3,Domestic,Winter,Train,3  
+Konark,22000,Temple Town,2,Domestic,Winter,Train,3
+Ujjain,24000,Temple Town,3,Domestic,Winter,Train,3
+Nepal,35000,Neighboring Country,5,International,Spring,Flight,3
+Maldives,50000,Island Nation,6,International,Winter,Flight,4
+Ethiopia,40000,Historical Country,7,International,Winter,Flight,3  
+Fiji,45000,Island Country,6,International,Summer,Flight,4
+Seychelles,55000,Beach Destination,5,International,Winter,Flight,4  
+Greenland,60000,Arctic Country,10,International,Summer,Flight,5  
+Morocco,45000,Desert Country,7,International,Winter,Flight,4
+Montenegro,40000,Mountain Country,6,International,Summer,Flight,3
+Bulgaria,35000,Budget Destination,5,International,Summer,Flight,3
+Latvia,30000,Offbeat Destination,4,International,Summer,Flight,3  
+Estonia,32000,Sea Beach Country,4,International,Summer,Flight,3
+Lithuania,30000,Lake Destination,4,International,Summer,Flight,3  
+Slovakia,35000,Historical Country,5,International,Summer,Flight,3  
+Hungary,40000,Spa Destination,6,International,Spring,Flight,3
+Serbia,32000,Nature Destination,4,International,Spring,Flight,3  
+Croatia,42000,Coastal Country,5,International,Summer,Flight,4
+Greece,45000,Beach Destination,7,International,Summer,Flight,3  
+Finland,50000,Northern Lights,8,International,Winter,Flight,4
+France,55000,Cultural Destination,6,International,Spring,Flight,3  
+Spain,45000,Budget Destination,6,International,Summer,Flight,4
+England,60000,Icons Country,7,International,Summer,Flight,4 
+Italy,50000,Cultural Country,6,International,Spring,Flight,3
+Iceland,70000,Landscapes Country,8,International,Summer,Flight,5
+Egypt,55000,Historical Country,7,International,Winter,Flight,4
+Belgium,50000,Iconic Cities,5,International,Spring,Flight,3  
+Scotland,45000,Highlands Country,6,International,Spring,Flight,3
+Ireland,50000,Cliffs Country,7,International,Summer,Flight,4  
+Switzerland,60000,Alpine Country,7,International,Spring,Flight,4
+Germany,55000,Beer Country,6,International,Summer,Flight,3
+Poland,40000,Budget Destination,5,International,Summer,Flight,3
+Canada,70000,Natural Wonder,10,International,Spring,Flight,5  
+Denmark,45000,Cyclist Paradise,5,International,Spring,Flight,3
+Qatar,50000,Modern Country,5,International,Winter,Flight,4  
+Dubai,60000,Iconic City,6,International,Winter,Flight,4
+Sri Lanka,35000,Beach Destination,5,International,Winter,Flight,3 
+China,40000,Heritage Site,7,International,Spring,Flight,3  
+Cambodia,35000,Cultural Country,5,International,Winter,Flight,4  
+Vietnam,30000,Budget Destination,6,International,Winter,Flight,3
+Malaysia,45000,Family Holiday,5,International,Winter,Flight,3
+Abu Simbel Temples,60000,Heritage Site,7,International,Winter,Flight,4 
+Neuschwanstein Castle,50000,Iconic Castle,4,International,Summer,Flight,3 
+Sagrada Familia,55000,Architectural Marvel,4,International,Summer,Flight,3
+Venice Canals,50000,Floating City,5,International,Summer,Flight,3
+Blue Lagoon Iceland,65000,Natural Spa,6,International,Summer,Flight,4
+Matterhorn Mountain,55000,Alpine Peak,5,International,Summer,Flight,4
+Fairytale Castles,60000,Architectural Gems,8,International,Summer,Flight,5
+Reynisfjara Beach,50000,Black Sand Beach,6,International,Summer,Flight,4  
+Giant's Causeway,55000,Hexagonal Columns,5,International,Spring,Flight,3
+Lake Bled Island,45000,Alpine Lake,4,International,Spring,Flight,3 
+Plitvice Lakes Park,40000,Turquoise Lakes,5,International,Spring,Flight,3
+Santorini Island,60000,Aegean Hotspot,7,International,Summer,Flight,4
+Cappadocia,50000,Whimsical Landscapes ,6,International,Summer,Flight,4
+Bali Island,55000,Beach Destination,8,International,Winter,Flight,4
+Maldives Island,60000,Tropical Nation,7,International,Winter,Flight,4
+Komodo Islands,50000,Exotic Wildlife,5,International,Winter,Flight,4
+Lofoten Islands Arctic,65000,Dramatic Peaks ,8,International,Summer,Flight,4
+Palawan Island,60000,Waterscapes,7,International,Winter,Flight,4
+Mendoza Wine Valley,55000,Vineyard Vacation,6,International,Spring,Flight,4
+The Niagara Falls,50000,Honeymoon Spot,6,International,Summer,Flight,4
+Zhangye Rainbow Mountains,45000,Colorful Ridges,7,International,Summer,Flight,5
+Pamukkale Thermal Pools,40000,Hot Springs,4,International,Summer,Flight,3
+Zhangjiajie Avatar Mountains,60000,Pillar Peaks,7,International,Summer,Flight,4   
+Salar de Uyuni,55000,World's Largest Mirror,6,International,Summer,Flight,4
+Cappadocia,50000,Whimsical Landscapes ,6,International,Summer,Flight,4
+Bali Island,55000,Beach Destination,8,International,Winter,Flight,4
+Maldives Island,60000,Tropical Nation,7,International,Winter,Flight,4 
+Komodo Islands,50000,Exotic Wildlife,5,International,Winter,Flight,4  
+Lofoten Islands Arctic,65000,Dramatic Peaks ,8,International,Summer,Flight,4
+Palawan Island,60000,Waterscapes,7,International,Winter,Flight,4
+Mendoza Wine Valley,55000,Vineyard Vacation,6,International,Spring,Flight,4
+The Niagara Falls,50000,Honeymoon Spot,6,International,Summer,Flight,4
+Zhangye Rainbow Mountains,45000,Colorful Ridges,7,International,Summer,Flight,5  
+Pamukkale Thermal Pools,40000,Hot Springs,4,International,Summer,Flight,3
+Zhangjiajie Avatar Mountains,60000,Pillar Peaks,7,International,Summer,Flight,4    
+Salar de Uyuni,55000,World's Largest Mirror,6,International,Summer,Flight,4
+The Great Barrier Reef,65000,Natural Wonder,8,International,Winter,Flight,5    
+Machu Picchu,55000,Incan Citadel,6,International,Summer,Flight,4
+CTwine Imperial City,70000,Vietnam Highlight,7,International,Spring,Flight,4   
+Ha Long Bay Limestones,60000,Overnight Cruise ,6,International,Spring,Flight,4
+Borobudur Temple,45000,Grand Indonesian Buddist Temple,5,International,Summer,Flight,4  
+Komodo National Park,50000,Prehistoric Park,5,International,Winter,Flight,4
+Luang Prabang,35000,Spiritual Haven,5,International,Winter,Flight,3 
+La Digue Island,55000,Granite Rock Island,6,International,Winter,Flight,4   
+Siem Reap,40000,Gateway to Angkor Wat,5,International,Winter,Flight,3 
+Nusa Penida,60000,Limestone Cliffs Island,7,International,Summer,Flight,4  
+Nong Khiaw,35000,Landscapes on the Nam Ou River,5,International,Spring,Flight,3  
+Baku Old City,40000,Historic Landmark,5,International,Summer,Flight,3
+Pune,24000,Heritage,3,Domestic,Monsoon,Road,3
+Lucknow,22000,Cultural,3,Domestic,Winter,Train,3  
+Kolhapur,20000,Temple Town,2,Domestic,Monsoon,Train,3
+Nashik,25000,Wine Capital,3,Domestic,Winter,Road,3
+Lepakshi,15000,Historical,2,Domestic,Summer,Road,2
+Hampi,22000,Ancient Ruins,3,Domestic,Winter,Train,3
+Gokarna,20000,Coastal Town,3,Domestic,Summer,Train,3 
+Bekal,18000,Seaside Fort,2,Domestic,Summer,Train,3 
+Bundi,21000,Frescos,2,Domestic,Winter,Train,3  
+Mandu,24000,Ghost Town,3,Domestic,Monsoon,Train,3 
+Shekhavati,25000,Open Art Gallery,2,Domestic,Winter,Train,3
+Khajuraho Temples,22000,Sculptures,3,Domestic,Summer,Flight,3
+Bhimbetka Caves,17000,Rock Shelters,2,Domestic,Monsoon,Train,3
+Horsley Hills,21000,Hill Town,3,Domestic,Summer,Train,3
+Yelagiri,16000,Offbeat,2,Domestic,Monsoon,Train,3  
+Lakshadweep,40000,Island,5,Domestic,Winter,Flight,4
+Neil Island,35000, coral Beach,4,Domestic,Winter,Flight,3   
+Rameswaram,24000,Temple Town,3,Domestic,Winter,Train,3
+Dwarka,28000,Pilgrim,4,Domestic,Winter,Flight,3
+Gokarna,22000,Spiritual Beach,3,Domestic,Summer,Train,3 
+Mcleodganj,24000,Hill Town,3,Domestic,Summer,Train,3  
+Auroville,28000,Utopian Township,3,Domestic,Winter,Train,3
+Kasol,20000,Offbeat Hill Town,3,Domestic,Summer,Train,4
+Malampuzha,22000,Hill Garden,3,Domestic,Monsoon,Train,3
+Yumthang,30000,Valley of Flowers ,4,Domestic,Summer,Train,3 
+Ziro,27000,Tribal,3,Domestic,Summer,Flight,3
+Majuli,23000,World's Largest River Island,3,Domestic,Monsoon,Flight,3
+Kutch,33000,Salt Desert,4,Domestic,Winter,Train,3 
+Halebidu,18000,Temple Town,2,Domestic,Summer,Train,2
+Saputara,21000,Hill Station,3,Domestic,Monsoon,Train,3  
+Pachmarhi,24000,Cave Paintings,3,Domestic,Summer,Train,3
+Kumarakom,30000,Backwater Resort,4,Domestic,Monsoon,Flight,3
+Mararikulam ,32000,Hammock Beach,4,Domestic,Summer,Flight,3
+Munnar,3500,Tea Gardens,4,Domestic,Summer,Flight,3
+Thekkady,25000,Wildlife,3,Domestic,Summer,Flight,3 
+Bekal,19000,Seaside Fort,2,Domestic,Summer,Train,3
+Gopalpur,18000,Palm-fringed Beach,2,Domestic,Summer,Train,3
+Puri,20000,Sea Beach,3,Domestic,Winter,Train,3  
+Murudeshwar,22000,Giant Statue,3,Domestic,Winter,Train,4
+Gokarna,21000,Spiritual Beach,3,Domestic,Summer,Train,3
+Kovalam,25000,Palm Beach,3,Domestic,Summer,Flight,3
+Varkala,20000,Cliff Resort,3,Domestic,Summer,Train,3
+Alleppey,30000,Backwater Cruise,4,Domestic,Monsoon,Train,3  
+Kumarakom,32000,Lake Resort,4,Domestic,Monsoon,Train,3  
+Cochin,28000,Historical City,3,Domestic,Winter,Flight,3
+Kabini,24000,Jungle Safari,3,Domestic,Summer,Flight,3 
+Bhimtal,22000,Lake Town,3,Domestic,Summer,Train,3
+Tosh,18000,Hippie Village,2,Domestic,Summer,Train,4  
+Chopta,16000,Offbeat,2,Domestic,Summer,Train,3
+Lohagad Fort,15000,Monsoon Trek,2,Domestic,Monsoon,Train,3
+Panchgani,22000,Strawberry Town,3,Domestic,Monsoon,Train,3
+Malshej Ghat,15000,Waterfall,2,Domestic,Monsoon,Train,4
+Kaas Plateau,18000,Meadow Flowers,2,Domestic,Monsoon,Train,3  
+Igatpuri,17000,Meditation,2,Domestic,Monsoon,Train,3
+Kemmanagundi,19000,Hill Town,2,Domestic,Monsoon,Train,3  
+Yelagiri,14000,Offbeat,2,Domestic,Monsoon,Train,3
+Kodaikanal,24000,Princess of Hills ,3,Domestic,Summer,Train,3
+Yercaud,20000,Coffee Plantations,3,Domestic,Summer,Train,3 
+Coonoor,22000,Tea Gardens,3,Domestic,Summer,Train,3  
+Khandala,18000,Roadside Hill Station,2,Domestic,Monsoon,Train,3
+Mahabaleshwar,25000,Summer Hill Town,3,Domestic,Summer,Train,3  
+Lansdowne,20000,Offbeat,3,Domestic,Summer,Train,3
+Tirthan Valley,18000,Adventure,2,Domestic,Summer,Train,4  
+Chopta,16000,Trekking,2,Domestic,Summer,Train,3
+Valley of Flowers,25000,Meadow Trek,3,Domestic,Summer,Train,3 
+Rishikesh,18000,River Rafting,2,Domestic,Summer,Train,4  
+Bir Billing,15000,Paragliding,2,Domestic,Summer,Train,3
+Malana,20000,Ancient Village,3,Domestic,Summer,Train,3 
+Kheerganga,15000,Trekking,2,Domestic,Summer,Train,3
+Kasol,16000,Offbeat,2,Domestic,Summer,Train,3 
+Tosh,15000,Trek to Village,2,Domestic,Summer,Train,4
+Mcleodganj,18000,Tibetan Culture,2,Domestic,Summer,Train,3  
+Manali,22000,Adventure Hub,3,Domestic,Summer,Train,4  
+Kufri,18000,Snowy Slopes,2,Domestic,Winter,Train,3
+Nainital,20000,Lake District,3,Domestic,Summer,Train,3
+Mussoorie,22000,Colonial Hill Town,3,Domestic,Summer,Train,3
+Darjeeling,25000,Toy Train,3,Domestic,Spring,Train,3  
+Gangtok,27000,Alpine Town,3,Domestic,Spring,Flight,3  
+Shimla,24000,Heritage Town,3,Domestic,Summer,Train,3
+Mount Abu,22500,Hill Town,3,Domestic,Summer,Train,3
+Munnar,30000,Spice Garden,4,Domestic,Summer,Flight,3  
+Thekkady,22000,Wildlife,3,Domestic,Summer,Flight,3
+Yumthang Valley,27000,Rhododendron Park,3,Domestic,Summer,Flight,3  
+Ziro Valley,25000,Tribal Village,3,Domestic,Summer,Flight,4
+Majuli,20000,River Island,3,Domestic,Monsoon,Flight,3
+Great Himalayan Park,22000,Alpine Meadows,3,Domestic,Summer,Flight,3
+Dandeli,23000,River Rafting ,3,Domestic,Monsoon,Flight,4
+Pachmarhi,21000,Cave Paintings,3,Domestic,Summer,Flight,3 
+Khajjiar,19000,Mini Switzerland,2,Domestic,Summer,Flight,3
+Lansdowne,18000,Garhwal Town,2,Domestic,Summer,Train,3
+Mcleodganj,19000,Tibetan Town,2,Domestic,Summer,Train,3
+Kausani,17000,Himalayan Foothills,2,Domestic,Summer,Train,3
+Chaukori,18000,Offbeat,2,Domestic,Summer,Train,3
+Pune,24000,Cultural,3,Domestic,Monsoon,Road,3  
+Lucknow,22000,Cultural,3,Domestic,Winter,Train,3
+Kolhapur,20000,Devotional,2,Domestic,Monsoon,Train,3
+Nashik,25000,Enjoy,3,Domestic,Winter,Road,3 
+Lepakshi,15000,Cultural,2,Domestic,Summer,Road,2
+Hampi,22000,Cultural,3,Domestic,Winter,Train,3
+Gokarna,20000,Relaxation,3,Domestic,Summer,Train,3  
+Bekal,18000,Romantic,2,Domestic,Summer,Train,3  
+Bundi,21000,Informational,2,Domestic,Winter,Train,3
+Mandu,24000,Romantic,3,Domestic,Monsoon,Train,3  
+Shekhavati,25000,Cultural,2,Domestic,Winter,Train,3 
+Khajuraho Temples,22000,Cultural,3,Domestic,Summer,Flight,3 
+Bhimbetka Caves,17000,Informational,2,Domestic,Monsoon,Train,3  
+Horsley Hills,21000,Relaxation,3,Domestic,Summer,Train,3
+Yelagiri,16000,Adventure,2,Domestic,Monsoon,Train,3   
+Lakshadweep,40000,Relaxation,5,Domestic,Winter,Flight,4
+Neil Island,35000, Romantic,4,Domestic,Winter,Flight,3    
+Rameswaram,24000,Devotional,3,Domestic,Winter,Train,3
+Dwarka,28000,Devotional,4,Domestic,Winter,Flight,3
+Gokarna,22000,Spiritual Beach,3,Domestic,Summer,Train,3  
+Mcleodganj,24000,Spiritual,3,Domestic,Summer,Train,3   
+Auroville,28000,Cultural,3,Domestic,Winter,Train,3
+Kasol,20000,Adventure,3,Domestic,Summer,Train,4 
+Malampuzha,22000,Enjoy,3,Domestic,Monsoon,Train,3
+Yumthang,30000,Enjoy,4,Domestic,Summer,Train,3  
+Ziro,27000,Cultural,3,Domestic,Summer,Flight,3
+Majuli,23000,Cultural,3,Domestic,Monsoon,Flight,3 
+Kutch,33000,Cultural,4,Domestic,Winter,Train,3  
+Halebidu,18000,Cultural,2,Domestic,Summer,Train,2
+Saputara,21000,Relaxation,3,Domestic,Monsoon,Train,3   
+Pachmarhi,24000,Informational,3,Domestic,Summer,Train,3
+Kumarakom,30000,Relaxation,4,Domestic,Monsoon,Flight,3   
+Mararikulam ,32000,Relaxation,4,Domestic,Summer,Flight,3 
+Munnar,35000,Relaxation,4,Domestic,Summer,Flight,3
+Thekkady,25000,Adventure,3,Domestic,Summer,Flight,3  
+Bekal,19000,Romantic,2,Domestic,Summer,Train,3

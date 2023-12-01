@@ -1,0 +1,119 @@
+body{
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, .5)), url(bg1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+*{margin: 0; padding: 0;box-sizing: border-box;}
+a{text-decoration: none;}
+.container{
+    width: 100%;
+    height: 100vh;
+    
+    
+}
+.top{
+    width: 100%;
+    height: 100px;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 150px;
+}
+
+.logo_area{
+    width: 30%;
+    float:left;
+}
+.logo_area a{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo_area a img{
+    width: 100px;
+}
+.logo_area a h1{
+    color: white ;
+    text-transform: uppercase;
+    font-family: cursive;
+    margin-left: 15px;
+}
+.menu_area{
+    width: 40%;
+}
+.menu_area ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu_area ul li{
+    position: relative;
+}
+.menu_area ul li::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    background: rgb(44, 163, 163);
+    bottom: -10px;
+    left: 0;
+    transition: 0.5s all ease-in-out;
+}
+.menu_area ul li:hover::after{
+    width: 100%; 
+}
+.menu_area ul li a{
+    color: white;
+    font-family: lato;
+    font-size: 16px;
+    transition: 0.3s all ease-in-out;
+
+}
+.menu_area ul li a:hover{
+    color:rgb(44, 163, 163);
+}
+.info{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.info h1{
+    color: white;
+    font-family: lato;
+    font-size: 60px;
+}
+.info p{
+    color: white;
+    font-size: 20px;
+    font-family: arial;
+    margin: 30px 0px;
+}
+.extra{
+    text-align: center;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.extra h2{
+    color:white;
+    font-family: lato;
+    font-size: 60px;
+}
+.extra p{
+    color: white;
+    font-size: 20px;
+    font-family: arial;
+    margin: 30px 0px;
+}
+.travel{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
