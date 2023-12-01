@@ -12,7 +12,7 @@ from sklearn.model_selection import GridSearchCV
 
 app = Flask(__name__, static_url_path='/static')
 
-"""def  train():
+def  train():
     df = pd.read_csv('ml/datasetf.csv')
     label_encoder = LabelEncoder()
     label_encoder.fit(df['Destination'])
@@ -53,7 +53,7 @@ app = Flask(__name__, static_url_path='/static')
     accuracy = accuracy_score(y_test, y_pred)
     print(f"Accuracy: {accuracy * 100:.2f}%")
 
-    joblib.dump(best_model, 'destination_prediction_model_rf_best.joblib')"""
+    joblib.dump(best_model, 'destination_prediction_model_rf_best.joblib')
 
 def predict_dest(data_list):
     #train()
@@ -82,7 +82,7 @@ def predict_dest(data_list):
 
     predicted_destination = label_encoder_destination.inverse_transform([predicted_label_encoded])[0]
 
-    #print(f"Predicted Destination: {predicted_destination}")
+    print(f"Predicted Destination: {predicted_destination}")
 
     return predicted_destination
 
