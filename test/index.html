@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tourismo</title>
+
+<link rel="stylesheet" href="home.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<!-- Navbar -->
+<nav class="navbar">
+  <div class="container">
+    <div class="navbar-left">
+      <form class="form-inline" action="{{ url_for('onvisit') }}">
+        <input class="form-control" type="search" name="place_search" placeholder="Search">
+        <button class="btn" type="submit">Search</button>
+        <button class="btn ml-2" type="button">Predict</button>  
+      </form>
+    </div>
+
+    <button class="navbar-toggler">
+      <span>Menu</span>
+    </button>
+
+    <div class="navbar-collapse">
+      <ul class="navbar-nav ml-auto">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Popular Cultures</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Portal</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!-- End Navbar -->
+
+<!-- Page content -->
+
+<section class="hero">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="main-text">
+      <h1>Tourismo</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate perspiciatis ducimus aliquam architecto possimus. Voluptatum?</p>
+      <button class="btn">View all</button>
+    </div>
+  </div>
+</section>
+
+<section class="search">
+  <div class="container">
+    <h1>Don't know to where to go?</h1>
+    <h2>Let us help</h2>
+
+    <form method="post" action="{{ url_for('suggest') }}">
+      <input type="text" name="Budget" placeholder="Budget">
+      <input type="text" name="Company" placeholder="Company">
+      <input type="text" name="Days" placeholder="Days">
+      <input type="text" name="Range" placeholder="Range">
+      <input type="text" name="Season" placeholder="Season">
+      <input type="text" name="Transport" placeholder="Transport">  
+      <input type="text" name="Vacation-type" placeholder="Vacation-type">
+      <input type="text" name="Member-count" placeholder="Member-count">
+
+      <button type="submit">Suggest</button>
+    </form>
+
+    <h2>{{result}}</h2>
+
+  </div>
+</section>
+
+<!-- More page content -->
+
+</body>
+</html>

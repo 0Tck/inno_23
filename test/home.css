@@ -1,0 +1,59 @@
+/* Styles */
+
+.navbar {
+    background: #077cb3;
+    position: absolute; 
+    left: 0;
+    right: 0;
+    z-index: 3;
+    top: 10px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  
+  .navbar-toggler {
+    /* Styles */
+  }
+  
+  .navbar-collapse {
+    /* Styles */  
+  }
+  
+  .navbar-nav li {
+    /* Styles */
+  }
+  
+  .navbar-nav li a {
+    /* Styles */
+  }
+  
+  .hero {
+    background-image: url('https://i.postimg.cc/RVYKYw7J/hero.jpg');
+    background-size: cover; 
+    background-position: top center;
+    position: relative;
+    height: 850px;  
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; 
+    opacity: .5;
+    background: #077cb3;
+    height: 850px;
+  }
+  
+  .main-text {
+    /* Styles */
+  }
+  
+  .btn {
+    background: #030157;
+    color: #fff;
+    padding: 5px 17px;
+  }
+  
+  /* More styles */
