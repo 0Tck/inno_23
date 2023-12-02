@@ -5,14 +5,16 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score
 import joblib
 from sklearn.model_selection import GridSearchCV
+from imblearn.over_sampling import RandomOverSampler
 
-df = pd.read_csv('dataset.csv')
+
+df = pd.read_csv('datasett.csv')
 label_encoder = LabelEncoder()
 label_encoder.fit(df['Destination'])
 joblib.dump(label_encoder, 'label_encoder1.joblib')
 df['Destination'] = label_encoder.transform(df['Destination'])
 
-categorical_columns = ['Budget', 'Company', 'No. of Days', 'Range', 'Season', 'Mode of Transport', 'Type of Vacation', 'No. of Members']
+categorical_columns = ['Budget', 'Company', 'No. of Days', 'Range', 'Season', 'Mode of Transport', 'Type of Vacation', 'No. of Members','type of place']
 
 for column in categorical_columns:
     label_encoder.fit(df[column])
@@ -32,7 +34,8 @@ param_grid = {
     'min_samples_split': [2, 5, 10]
 }
 
-grid_search = GridSearchCV(RandomForestClassifier(), param_grid, cv=5)
+grid_search = GridSearchCV(RandomForestClassifier(), param_grid, cv=3)
+
 grid_search.fit(X_train, y_train)
 
 best_params = grid_search.best_params_

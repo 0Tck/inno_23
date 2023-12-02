@@ -3,12 +3,12 @@ import joblib
 
 def predict_dest():
     label_encoder_destination = joblib.load('label_encoder1.joblib')
-    label_encoders_categorical = {column: joblib.load(f'label_encoder_{column}.joblib') for column in ['Budget', 'Company', 'No. of Days', 'Range', 'Season', 'Mode of Transport', 'Type of Vacation', 'No. of Members']}
+    label_encoders_categorical = {column: joblib.load(f'label_encoder_{column}.joblib') for column in ['Budget', 'Company', 'No. of Days', 'Range', 'Season', 'Mode of Transport', 'Type of Vacation', 'No. of Members','type of place']}
     model = joblib.load('destination_prediction_model_rf_best.joblib')
 
-    data_list = [80000, 'Family', 5, 'State', 'Summer', 'Train', 'Devotional', 4]
+    data_list = [80000, 'Family', 5, 'State', 'Summer', 'Train', 'Devotional', 4, 'hill station']
 
-    columns = ['Budget', 'Company', 'No. of Days', 'Range', 'Season', 'Mode of Transport', 'Type of Vacation', 'No. of Members']
+    columns = ['Budget', 'Company', 'No. of Days', 'Range', 'Season', 'Mode of Transport', 'Type of Vacation', 'No. of Members','type of place']
 
     new_data_df = pd.DataFrame([data_list], columns=columns)
 
@@ -29,7 +29,7 @@ def predict_dest():
 
     print(f"Predicted Destination: {predicted_destination}")
 
-    return predicted_destination
+    
 
 if __name__=='__main__':
     predict_dest()

@@ -110,13 +110,38 @@ def suggest():
         return render_template('home.html', result='You can go to '+res)
     return render_template('home.html')
 
+def back_end(place):
+    if place=='Tirupathi':
+        desc="""Tirupati, a spiritual haven nestled in the southeastern state of Andhra Pradesh, is synonymous with devotion and rich cultural heritage.
+        Renowned for the sacred Sri Venkateswara Temple atop the picturesque Tirumala Hills, the town draws millions of pilgrims annually.
+        The temple, dedicated to Lord Venkateswara, is a symbol of architectural splendor and spiritual significance.
+        The vibrant atmosphere is heightened during festivals, with the Brahmotsavam being a major highlight,
+        showcasing elaborate processions and religious fervor. Tirupati's culture is deeply intertwined with its religious practices,
+        and the town's traditional arts, music, and dance further enrich the cultural tapestry,
+        offering a unique blend of spirituality and artistic expression."""
+        tra_des="""Tirupati, nestled in the southern part of India, is renowned as a spiritual haven and a major pilgrimage destination. The focal point is the sacred Venkateswara Temple atop the Seven Hills, dedicated to Lord Venkateswara. Millions of devotees embark on the journey to seek blessings and fulfill vows. The temple's intricate architecture and the breathtaking views from the hills make the pilgrimage a profound and awe-inspiring experience. Tirupati's spiritual aura extends beyond the temple, with serene spots like Akasa Ganga offering moments of contemplation. The city's cultural richness and warm hospitality further enhance the overall travel experience, making Tirupati a destination where spirituality and tradition converge."""
+        food_des="""Tirupati, a spiritual destination in southern India, not only draws pilgrims to its sacred temples but also tantalizes taste buds with its unique culinary offerings. Renowned for its luscious laddus, Tirupati Balaji Temple serves these sweet delicacies as prasadam, considered divine blessings. The local cuisine reflects the rich culinary heritage of Andhra Pradesh, featuring flavorful dishes like Puliyodarai (tamarind rice), Pongal (rice and lentil dish), and spicy Andhra Biryanis. Street markets brim with traditional snacks like Murukku and Boorelu, tempting both locals and visitors alike. In Tirupati, the culinary experience is a delightful journey complementing the spiritual ambiance of the sacred city."""
+        lang_des="""Tirupati, nestled in the southern part of India, is renowned for the sacred Tirumala Venkateswara Temple, one of the most visited pilgrimage sites globally. The temple atop the seven hills attracts millions of devotees annually, drawn by the spiritual significance of Lord Venkateswara. Pilgrims climb the steps, or opt for various modes of transport, seeking blessings and participating in rituals. Beyond its religious aura, Tirupati offers a serene escape with lush landscapes and traditional markets, making it a destination that seamlessly blends spiritual devotion with natural beauty."""
+        places_des="""Sri Govindarajaswami Temple:  An ancient temple dedicated to Lord Krishna and one of the most important in Tirupati.
+                    Kapila Theertham:  A picturesque waterfall and a sacred pond located about 3 kilometers from Tirupati, surrounded by lush greenery.
+                    Sri Padmavathi Ammavari Temple:  Dedicated to Goddess Padmavathi, the consort of Lord Venkateswara, this temple is located in Tiruchanur, about 5 kilometers from Tirupati.
+                    ISKCON Temple:  The International Society for Krishna Consciousness (ISKCON) has a vibrant temple in Tirupati that attracts devotees and visitors.
+                    TTD Gardens:  Sprawling gardens maintained by the Tirumala Tirupati Devasthanams (TTD), offering a serene atmosphere for relaxation.
+                    Deer Park:  A natural habitat for deer and other wildlife, providing a tranquil setting for nature enthusiasts.
+                    Chandragiri Fort:  About 16 kilometers from Tirupati, this historical fort dates back to the 11th century and offers panoramic views of the surrounding landscape.
+                    Silathoranam:  A natural rock formation in Tirumala, believed to be Lord Rama's bow, adding a touch of geological and mythological interest.
+                    Akasa Ganga:  A mountain stream and waterfall near the Tirumala temple, known for its religious significance and scenic beauty.
+                    Sri Venkateswara Zoological Park:  Located in Tirupati, this zoo is home to a variety of wildlife species, providing an educational and entertaining experience."""               
+    return desc, tra_des, food_des, lang_des, places_des
+
 @app.route('/onvisit', methods=['GET','POST'])
 def onvisit():
     place = request.args.get('place_search', '')
     if place=='':
         return render_template('home.html', null='fill it')
-    return render_template('onvisit.html',place=place)
-
+    desc,trav,food,lang,places=back_end(place)
+    return render_template('onvisit.html',place=place,desc=desc,travel=trav,food=food,lang=lang,places=places)
+        
 @app.route('/search', methods=['GET', 'POST'])
 def search():
     return redirect(url_for('onvisit'))
