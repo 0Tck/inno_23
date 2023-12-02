@@ -13,13 +13,13 @@ from sklearn.model_selection import GridSearchCV
 app = Flask(__name__, static_url_path='/static')
 
 def  train():
-    df = pd.read_csv('ml/datasetf.csv')
+    df = pd.read_csv('ml/datasett.csv')
     label_encoder = LabelEncoder()
     label_encoder.fit(df['Destination'])
     joblib.dump(label_encoder, 'label_encoder1.joblib')
     df['Destination'] = label_encoder.transform(df['Destination'])
 
-    categorical_columns = ['Budget', 'Company', 'No. of Days', 'Range', 'Season', 'Mode of Transport', 'Type of Vacation', 'No. of Members']
+    categorical_columns = ['Budget', 'Company', 'No. of Days', 'Range', 'Season', 'Mode of Transport', 'Type of Vacation', 'No. of Members', 'place-type']
 
     for column in categorical_columns:
         label_encoder.fit(df[column])
@@ -39,7 +39,7 @@ def  train():
         'min_samples_split': [2, 5, 10]
     }
 
-    grid_search = GridSearchCV(RandomForestClassifier(), param_grid, cv=5)
+    grid_search = GridSearchCV(RandomForestClassifier(), param_grid, cv=3)
     grid_search.fit(X_train, y_train)
 
     best_params = grid_search.best_params_
@@ -56,14 +56,14 @@ def  train():
     joblib.dump(best_model, 'destination_prediction_model_rf_best.joblib')
 
 def predict_dest(data_list):
-    #train()
+    train()
     label_encoder_destination = joblib.load('label_encoder1.joblib')
-    label_encoders_categorical = {column: joblib.load(f'label_encoder_{column}.joblib') for column in ['Budget', 'Company', 'No. of Days', 'Range', 'Season', 'Mode of Transport', 'Type of Vacation', 'No. of Members']}
+    label_encoders_categorical = {column: joblib.load(f'label_encoder_{column}.joblib') for column in ['Budget', 'Company', 'No. of Days', 'Range', 'Season', 'Mode of Transport', 'Type of Vacation', 'No. of Members','place-type']}
     model = joblib.load('destination_prediction_model_rf_best.joblib')
 
     #data_list = [80000, 'Family', 5, 'State', 'Summer', 'Train', 'Devotional', 4]
 
-    columns = ['Budget', 'Company', 'No. of Days', 'Range', 'Season', 'Mode of Transport', 'Type of Vacation', 'No. of Members']
+    columns = ['Budget', 'Company', 'No. of Days', 'Range', 'Season', 'Mode of Transport', 'Type of Vacation', 'No. of Members','place-type']
 
     new_data_df = pd.DataFrame([data_list], columns=columns)
 
@@ -101,7 +101,8 @@ def suggest():
         transport = request.form.get('Transport')
         vacation = request.form.get('Vacation-type')
         popu = request.form.get('Member-count')
-        l=[budget, company, days, rang, season, transport, vacation, popu]
+        plac = request.form.get('place-type')
+        l=[budget, company, days, rang, season, transport, vacation, popu, plac]
         #print(l)
         if '' in l:
             return render_template('home.html', result='Fill in all the details before submitting.')
@@ -153,6 +154,11 @@ def login():
 @app.route('/signup')
 def signup():
     return render_template('signup.html')
+
+@app.route('/onvisit?place_search=Tirupathi/summary')
+def summary():
+    budget = request.form.get('Budget')
+    return render_template('bill.html', total=budget)
 
 if __name__ == '__main__':
     app.run(debug=True)

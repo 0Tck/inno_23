@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Splitwise</title>
+  <style>
+    body {
+  font-family: Arial; 
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;  
+}
+
+#input {
+  padding: 20px;
+  background: #f7f7f7;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;  
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 100%;
+  margin-bottom: 20px; 
+  box-sizing: border-box; 
+}
+
+button {
+  background: #009578;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;  
+}
+
+button:hover {
+  background: #00685d;
+}
+
+#output {
+  background: #fff;
+  border: 1px solid #ddd;  
+  padding: 20px;
+}
+  </style>
+</head>
+
+<body>
+
+  <h1>Splitwise</h1>
+  
+  <div id="input">
+    <label>Person's Name:</label>
+    <input type="text" id="name">
+    
+    <label>Bill Amount Paid:</label>  
+    <input type="number" id="bill">
+    
+    <button onclick="addBill()">Add Bill</button>
+  </div>
+   
+  <div id="output">
+  </div>
+
+  <script>
+    let people = [];
+
+    function addBill() {
+      let name = document.getElementById("name").value;  
+      let bill = document.getElementById("bill").value;
+      
+      people.push({
+        name: name, 
+        paid: bill
+      });
+      
+      display();
+    }
+
+    function display() {
+      let text = "";
+      let totalBill = people.reduce((sum, p) => sum + parseInt(p.paid), 0);
+      let avg = totalBill / people.length;
+      
+      people.forEach(p => {
+       let owes = avg - parseInt(p.paid);
+       text += `${p.name} -> Owes/Gets back: ${owes}<br>`; 
+      });
+      
+      document.getElementById("output").innerHTML = text; 
+    }
+  </script>
+
+</body>
+</html>

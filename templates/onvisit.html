@@ -22,6 +22,9 @@
                     <li><a href="#food">FOOD</a></li>
                     <li><a href="#language">LANGUAGE</a></li>
                     <li><a href="#places">PLACES</a></li>
+                    <form action="{{ url_for('summary') }}">
+                        <li><a href="{{ url_for('summary') }}">Summary</a></li>
+                    </form>
                 </ul>
             </div>
         </div>
@@ -36,12 +39,15 @@
             <h3>TRAVEL</h3>
             <pre> {{travel}}</pre>
         </div>
-            <h3 id="food">FOOD</h3>
-            <pre>{{food}}</pre>
-            <h3 id="language">LANGUAGE</h3>
-            <pre>{{lang}}</pre>
-            <h3 id="places">PLACES</h3>
-            <pre>{{places}}</pre>
+        <h3 id="food">FOOD</h3>
+        <pre>{{food}}</pre>
+        <h3 id="language">LANGUAGE</h3>
+        <pre>{{lang}}</pre>
+        <h3 id="places">PLACES</h3>
+        <pre>{{places}}</pre>
     </div>    
+    <div class="cont_split">
+        <input type="number" placeholder="budget">
+    </div>
 </body>
 </html>
